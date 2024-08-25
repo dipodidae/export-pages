@@ -1,0 +1,27 @@
+{
+  "name": "export-pages",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "export": "node index.js",
+    "clean": "rm -rf export/*"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "0.0.1-security",
+    "he": "^1.2.0",
+    "install": "^0.13.0",
+    "markdown-it": "^14.1.0",
+    "mysql2": "^3.11.0",
+    "turndown": "^7.2.0"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.27.1",
+    "eslint": "^9.9.0"
+  }
+}
