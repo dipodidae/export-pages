@@ -10,7 +10,7 @@ Wilde konijnen hebben een voorkeur voor zanderig, heuvelachtig terrein, met stru
 
 Overdag verblijven konijnen in hun burcht, bij schemering en ‘s nachts gaan ze op zoek naar voedsel. Ze eten grassen en kruiden, loten van jonge struikjes en boompjes, en akkergewassen. In de winter schakelen ze over op bast.
 
-Een konijnengroep bestaat uit 2 tot 10 volwassen dieren (voornamelijk vrouwtjes) en hun kinderen.  Er is een duidelijke rangorde, waarbij dominante dieren meer voedsel, betere schuilplaatsen en betere nestplaatsen krijgen. De rangordes in bestaande groepen worden geleidelijk gevormd tijdens het opgroeien van dieren waardoor er geen overmatige agressie optreedt.
+Een konijnengroep bestaat uit 2 tot 10 volwassen dieren (voornamelijk vrouwtjes) en hun kinderen. Er is een duidelijke rangorde, waarbij dominante dieren meer voedsel, betere schuilplaatsen en betere nestplaatsen krijgen. De rangordes in bestaande groepen worden geleidelijk gevormd tijdens het opgroeien van dieren waardoor er geen overmatige agressie optreedt.
 
 Mannelijke jonge konijnen en ongeveer de helft van de vrouwtjes verlaten de groep voordat ze volwassen zijn. Zij vormen weer nieuwe stabiele groepen. Het vormen van de rangorde binnen een nieuwe groep gaat wel gepaard met vechtpartijen, daarna treedt nog weinig agressie op. Wanneer een groep te sterk aangroeit kan opnieuw agressie voorkomen.
 

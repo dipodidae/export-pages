@@ -92,7 +92,7 @@ Slachterij Gosschalk in Epe, waar Varkens in Nood schokkende beelden van dierenm
 
 ## Tien jaar misstanden in Beter Leven bedrijven
 
-De recente undercoveronderzoeken bij Gosschalk en W. van der Meer vormen het topje van een ijsberg. Ongehoord heeft sinds 2011 jaar herhaaldelijk misstanden gefilmd met varkens, leghennen, vleeskuikens en konijnen in Beter Leven bedrijven met 1, 2 en 3 sterren. Hieronder volgt een overzicht van de onderzoeken.  
+De recente undercoveronderzoeken bij Gosschalk en W. van der Meer vormen het topje van een ijsberg. Ongehoord heeft sinds 2011 jaar herhaaldelijk misstanden gefilmd met varkens, leghennen, vleeskuikens en konijnen in Beter Leven bedrijven met 1, 2 en 3 sterren. Hieronder volgt een overzicht van de onderzoeken.
 2020 - Varkenshouderij van den Oever, St. Hubert (Noord-Brabant)
 
 ### 1 ster Beter Leven Keurmerk
@@ -107,7 +107,7 @@ In juli 2020 bracht Ongehoord beelden naar buiten van Beter Leven varkens in het
 
 \[content-video url="https://vimeo.com/495820126"\]
 
-Dit onderzoek werd gepubliceerd in januari 2020 en toonde hoe werknemers zich vermaken met de nog levende kippen. Het uit de transportkratten halen van de dieren en het aanhangen aan de slachtlijn gebeurt hardhandig. We horen angstgeluiden bij de dieren en zien kippen in paniek met de vleugels flapperen. Een kip komt onverdoofd uit het waterbad, wat betekent dat het dier een pijnlijke elektrische schok heeft ervaren en bij bewustzijn aangesneden wordt.  
+Dit onderzoek werd gepubliceerd in januari 2020 en toonde hoe werknemers zich vermaken met de nog levende kippen. Het uit de transportkratten halen van de dieren en het aanhangen aan de slachtlijn gebeurt hardhandig. We horen angstgeluiden bij de dieren en zien kippen in paniek met de vleugels flapperen. Een kip komt onverdoofd uit het waterbad, wat betekent dat het dier een pijnlijke elektrische schok heeft ervaren en bij bewustzijn aangesneden wordt.
 Volgens de Beter Leven criteria met betrekking tot pluimveeslachterijen moeten _”de dieren zo snel mogelijk doch in elk geval binnen 4 uur worden geslacht.”_ Bij W. Van der Meer bedraagt de gemiddelde wachttijd 8 uur.
 
 Voor meer informatie, lees [ons onderzoek over kippenslachterijen](/onderzoek/kippenslachterijen)
@@ -174,7 +174,7 @@ Voor meer informatie, lees [ons onderzoek over vleeskuikens](https://www.ongehoo
 
 \[content-video url="https://www.youtube.com/watch?v=IYLA1qLrmBM"\]
 
-Ten tijde van Ongehoords’ konijnenonderzoek (december 2011) was Kohlen de enige konijnenhouder in Nederland met het Beter Leven Keurmerk. Het bedrijf kreeg 1 ster van de Dierenbescherming voor de manier waarop de moederkonijnen gehuisvest werden. Het merendeel van de konijnen in het bedrijf zat echter in reguliere stallen. Jonge vleeskonijnen zaten in draadgazen kooien, sommige met plastic matjes, veel ook zonder. Er lagen dode, aangevreten konijnen tussen de levende soortgenoten. Sommige konijnen hadden ooraandoeningen en eentje miste een heel oor.  
+Ten tijde van Ongehoords’ konijnenonderzoek (december 2011) was Kohlen de enige konijnenhouder in Nederland met het Beter Leven Keurmerk. Het bedrijf kreeg 1 ster van de Dierenbescherming voor de manier waarop de moederkonijnen gehuisvest werden. Het merendeel van de konijnen in het bedrijf zat echter in reguliere stallen. Jonge vleeskonijnen zaten in draadgazen kooien, sommige met plastic matjes, veel ook zonder. Er lagen dode, aangevreten konijnen tussen de levende soortgenoten. Sommige konijnen hadden ooraandoeningen en eentje miste een heel oor.
 Twee jaar later werd het Keurmerk van Kohlen ingetrokken, zoals Ongehoord al in 2011 had beweerd bleek dat Kohlen inderdaad had gefraudeerd.
 
 Voor meer informatie, lees [ons onderzoek over konijnen](https://www.ongehoord.info/onderzoek/konijnen)
@@ -219,7 +219,7 @@ Dieraantallen in biologische bedrijven, wat gelijk gesteld is met 3 sterren Bete
 
 :annotation{id="23"}[Het aantal vleeskuikens is sinds 2007 gestegen met 5 876 600 dieren. Van de totale vleeskuikenstapel leven in 2020 29 miljoen kuikens onder het Beter Leven Keurmerk. Slechts 1 vleeskuikenhouder heeft 3 Beter Leven sterren, 6 bedrijven hebben 2 sterren en het gros van de bedrijven (131 Nederlandse vleeskuikenhouders) heeft 1 ster.]
 
-In vleeskuikenstallen met 1 ster leven 12 vleeskuikens op 1 vierkante meter, zonder buitenlucht. Er is een overdekte uitloop, waar de dieren net als in de stal op een verharde ondergrond zonder beplanting zitten. De kuikens worden vetgemest voor de slacht in 8 weken tijd (tegenover 6 weken voor reguliere kuikens). Naast vleeskuikens bestemd voor consumptie, worden in Nederland 7 794 300 vleeskuikenouderdieren gehouden. :annotation{id="24"}[De Beter Leven criteria zijn van toepassing op vleeskuikens voor consumptie. De ouders van Beter Leven vleeskuikens leven in reguliere stallen.]  
-Het aantal leghennen is sinds 2007 gestegen met 1 941 200 dieren. Van de totale leghennenstapel leven in 2020 4,7 miljoen leghennen onder het Beter Leven Keurmerk. Er zijn 3,69 miljoen biologisch gehouden leghennen (wat automatisch 3 Beter Leven sterren krijgt toegekend).
+In vleeskuikenstallen met 1 ster leven 12 vleeskuikens op 1 vierkante meter, zonder buitenlucht. Er is een overdekte uitloop, waar de dieren net als in de stal op een verharde ondergrond zonder beplanting zitten. De kuikens worden vetgemest voor de slacht in 8 weken tijd (tegenover 6 weken voor reguliere kuikens). Naast vleeskuikens bestemd voor consumptie, worden in Nederland 7794300 vleeskuikenouderdieren gehouden. :annotation{id="24"}[De Beter Leven criteria zijn van toepassing op vleeskuikens voor consumptie. De ouders van Beter Leven vleeskuikens leven in reguliere stallen.]
+Het aantal leghennen is sinds 2007 gestegen met 1941200 dieren. Van de totale leghennenstapel leven in 2020 4,7 miljoen leghennen onder het Beter Leven Keurmerk. Er zijn 3,69 miljoen biologisch gehouden leghennen (wat automatisch 3 Beter Leven sterren krijgt toegekend).
 
 Er zijn geen cijfers beschikbaar over het aantal leghennen met 2 of 1 sterren, wel kunnen we uit de cijfers over de biologische leghennenstapel afleiden dat een groot deel van de Beter Leven leghennen 3 sterren heeft. Het Beter Leven Keurmerk heeft niets verbeterd aan de leefomstandigheden van biologische hennen, aangezien biologische productie al bestond voor de invoering van het keurmerk.

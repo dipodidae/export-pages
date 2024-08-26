@@ -54,7 +54,7 @@ De vogelmijt gedijt dus erg goed onder de zeer onnatuurlijke omstandigheden waar
 
 ### _E.coli_
 
-Een infectie met de bacterie _Escherichia coli (E.coli)_ is een van de belangrijkste oorzaken van uitval \[source title="21"\]. Meestal betreft het een specifiek type _E.coli_  ook wel aangeduid als APEC (Avian Pathogenic _E.Coli_) en wordt deze ziekte colibacillose genoemd.
+Een infectie met de bacterie _Escherichia coli (E.coli)_ is een van de belangrijkste oorzaken van uitval \[source title="21"\]. Meestal betreft het een specifiek type _E.coli_ ook wel aangeduid als APEC (Avian Pathogenic _E.Coli_) en wordt deze ziekte colibacillose genoemd.
 
 :annotation{id="46"}[De infectie komt vaak voor als zogenaamde secundaire infectie. Dit betekent dat de weerstand van de hen al laag is door een andere oorzaak, zoals bijvoorbeeld bloedmijt of verenpikken en vervolgens krijgt de normaal gesproken “onschuldige” darmbacterie de kans om flink te groeien en andere lichaamsdelen te infecteren. Ook zorgen bijvoorbeeld te hoge ammoniakconcentraties, overbezetting of virale infecties voor verzwakking van het ademhalingsepitheel en maken de weg vrij voor kolonisatie door een APEC.]
 
@@ -70,14 +70,14 @@ _E.coli_ groeit het liefst bij een temperatuur van 18-44°C en het stalklimaat i
 
 Vogelgriep is waarschijnlijk voor de meeste mensen de bekendste kippenziekte omdat dit regelmatig in het nieuws is vanwege de vele ruimingen. Vogelgriep kent twee varianten, de milde variant (laagpathogeen) en de gevaarlijke variant (hoogpathogeen). Deze laatste wordt ook wel vogelpest genoemd. Dieren die de milde variant hebben, vertonen nauwelijks ziekteverschijnselen. Toch worden ook deze leghennen geruimd, omdat de milde variant over kan gaan naar de gevaarlijke vorm. In zeldzame gevallen kunnen bepaalde typen vogelgriep ook mensen besmetten.
 
-In 2003 werd maar liefst een derde van de hele pluimveel stapel vernietigd in verband met vogelgriep. Dertig miljoen dieren werden met stroomstoten of door vergassing omgebracht. Het betrof destijds de H7N7 variant, waar ook 89 mensen mee werden besmet. Een van hen overleefde dat niet.  
+In 2003 werd maar liefst een derde van de hele pluimveel stapel vernietigd in verband met vogelgriep. Dertig miljoen dieren werden met stroomstoten of door vergassing omgebracht. Het betrof destijds de H7N7 variant, waar ook 89 mensen mee werden besmet. Een van hen overleefde dat niet.
 In 2016 zijn meer dan 1 miljoen leghennen geruimd vanwege een H5N8 variant om verspreiding naar andere bedrijven tegen te gaan. In dat jaar vond de langste ophokplicht (kippen verplicht binnen houden) ooit in Nederland plaats, namelijk 5 maanden. Er was geen besmetting naar mensen toe bij deze variant.
 
 In december 2017 is er opnieuw vogelgriep vastgesteld op een vleeseemden bedrijf en worden 16.000 eenden “geruimd”. Omdat het vermoedelijk een hoogpathogene H5 variant betreft, is er een landelijke ophokplicht uitegeroepen.
 
-:annotation{id="49"}[Pluimvee met een vrije uitloop heeft een verhoogd risico om vogelgriep op te lopen ]. Vaak worden wilde (trek)vogels zoals eenden en ganzen als schuldigen aangewezen en zouden zij de ziekte overbrengen naar de leghennen. :annotation{id="50"}[Onderzoek uit 2014 laat echter het tegendeel zien; trekvogels brengen het virus niet het land in, maar lopen het juist hier op ].
+:annotation{id="49"}[Pluimvee met een vrije uitloop heeft een verhoogd risico om vogelgriep op te lopen ]. Vaak worden wilde (trek)vogels zoals eenden en ganzen als schuldigen aangewezen en zouden zij de ziekte overbrengen naar de leghennen. :annotation{id="50"}[Onderzoek uit 2014 laat echter het tegendeel zien; trekvogels brengen het virus niet het land in, maar lopen het juist hier op].
 
-:annotation{id="51"}[Intensief (internationaal) transport van dieren en dierproducten is een veel waarschijnlijkere verspreidingsroute van het virus ].
+:annotation{id="51"}[Intensief (internationaal) transport van dieren en dierproducten is een veel waarschijnlijkere verspreidingsroute van het virus].
 
 :annotation{id="52"}[Vaccinatie tegen vogelgriep is mogelijk, maar wordt vooral om economische redenen niet gedaan. Het is lastig, kostbaar en ons belangrijkste exportland, Duitsland, wil geen producten van gevaccineerde dieren ].
 
@@ -85,23 +85,23 @@ Ook bij deze ziekte zorgen de onnatuurlijke omstandigheden waaronder de kippen w
 
 ### Borstbeen afwijkingen
 
-:annotation{id="53"}[Afwijkingen aan het borstbeen zijn een van de belangrijkste welzijnsproblemen in de moderne leghenhouderij ].
+:annotation{id="53"}[Afwijkingen aan het borstbeen zijn een van de belangrijkste welzijnsproblemen in de moderne leghenhouderij].
 
-:annotation{id="54"}[Een Vlaams onderzoek uit 2015 liet zien dat na 60 weken 60% van de leghennen in volière-stallen een borstbeenafwijking had ]. :annotation{id="55"}[Uit onderzoek van het Instituut voor Lanbouw- en Visserijonderzoek (ILVO) in 47 Belgische volière stallen bleek dat maar liefst 82,5% van de hennen aan het einde van de productieronde één of enkele breuken had opgelopen. Bij grondhuisvesting lag dit percentage op 58% en bij verrijkte kooien op 62%]. :annotation{id="56"}[Het ILVO onderzoek liet ook zien dat 59,8 % van de onderzochte hennen een kromming (afwijking) van het borstbeen had ]. :annotation{id="53"}[Afwijkingen worden met name veroorzaakt door de vorm en het materiaal van zitstokken; harde, onbuigzame materialen leveren meer deformaties van het borstbeen op dan zachtere/buigzame materialen ]. Wanneer een hen op een zitstok zit, steunt namelijk twee derde van haar gewicht op het borstbeen.
+:annotation{id="54"}[Een Vlaams onderzoek uit 2015 liet zien dat na 60 weken 60% van de leghennen in volière-stallen een borstbeenafwijking had ]. :annotation{id="55"}[Uit onderzoek van het Instituut voor Lanbouw- en Visserijonderzoek (ILVO) in 47 Belgische volière stallen bleek dat maar liefst 82,5% van de hennen aan het einde van de productieronde één of enkele breuken had opgelopen. Bij grondhuisvesting lag dit percentage op 58% en bij verrijkte kooien op 62%]. :annotation{id="56"}[Het ILVO onderzoek liet ook zien dat 59,8 % van de onderzochte hennen een kromming (afwijking) van het borstbeen had ]. :annotation{id="53"}[Afwijkingen worden met name veroorzaakt door de vorm en het materiaal van zitstokken; harde, onbuigzame materialen leveren meer deformaties van het borstbeen op dan zachtere/buigzame materialen]. Wanneer een hen op een zitstok zit, steunt namelijk twee derde van haar gewicht op het borstbeen.
 
 :annotation{id="57"}[Breuken en herstelde breuken hebben een grote invloed op het welzijn van de hennen. Zo bleek dat hennen met herstelde breuken chronisch pijn lijden ]. :annotation{id="58"}[Daarnaast verminderen (herstelde) breuken de mobiliteit van de hen en hebben ook een negatieve invloed op de eierproductie ].
 
 ### Botontkalking
 
-:annotation{id="59"}[Bontontkalking oftewel osteoporose is naast te weinig beweging een van de belangrijkste oorzaken van zwakke botten en botbreuken. Het leggen van grote hoeveelheden eieren vraagt enorm veel van een leghen. Zo is er voor de eieren die een hen legt tijdens een legperiode 20-30 keer zoveel calcium nodig als de hen kan opslaan in haar lichaam ]. Doordat er calcium voor de eierschaal aan de botten wordt onttrokken, worden botten brozer. Ze kunnen met name richting het einde van de legronde sneller breken, wat erg pijnlijk is. :annotation{id="60"}[In kooien, waar de leghennen bij gebrek aan bewegingsvrijheid meer last van botontkalking hebben, werd geschat dat 80 tot 89% van de leghennen aan osteoporose leed ]. :annotation{id="35"}[Tevens werd geschat dat 13 tot 35% van de uitval in kooien werd veroorzaakt door botontkalking. In scharrelstallen, waar de totale uitval hoger ligt, is het aandeel van de uitval door botontkalking lager ]. 
+:annotation{id="59"}[Bontontkalking oftewel osteoporose is naast te weinig beweging een van de belangrijkste oorzaken van zwakke botten en botbreuken. Het leggen van grote hoeveelheden eieren vraagt enorm veel van een leghen. Zo is er voor de eieren die een hen legt tijdens een legperiode 20-30 keer zoveel calcium nodig als de hen kan opslaan in haar lichaam ]. Doordat er calcium voor de eierschaal aan de botten wordt onttrokken, worden botten brozer. Ze kunnen met name richting het einde van de legronde sneller breken, wat erg pijnlijk is. :annotation{id="60"}[In kooien, waar de leghennen bij gebrek aan bewegingsvrijheid meer last van botontkalking hebben, werd geschat dat 80 tot 89% van de leghennen aan osteoporose leed ]. :annotation{id="35"}[Tevens werd geschat dat 13 tot 35% van de uitval in kooien werd veroorzaakt door botontkalking. In scharrelstallen, waar de totale uitval hoger ligt, is het aandeel van de uitval door botontkalking lager].
 
 ![](http://www.ongehoord.info/wp-content/uploads/2017/12/Ysselsteyn_7036Web-1024x683.jpg)
 
-:annotation{id="40"}[In een recent Amerikaans onderzoek bleek dat van de ‘natuurlijk’ gestorven leghennen, maar liefst 16,8 % was gestorven door hypocalciëmie ]. Hypocalciëmie is een te laag gehalte aan calcium in het bloed, omdat al het calcium naar het maken van het ei is gegaan. Door dit te lage gehalte kunnen spieren gaan verkrampen en sterven de kippen door verstikking.  
+:annotation{id="40"}[In een recent Amerikaans onderzoek bleek dat van de ‘natuurlijk’ gestorven leghennen, maar liefst 16,8 % was gestorven door hypocalciëmie ]. Hypocalciëmie is een te laag gehalte aan calcium in het bloed, omdat al het calcium naar het maken van het ei is gegaan. Door dit te lage gehalte kunnen spieren gaan verkrampen en sterven de kippen door verstikking.
 
 ### Voetproblemen
 
-Ook problemen aan de voeten/voetzolen komen veel voor (hyperkeratose, voetzool dermatitus  en “bumble foot”). Belangrijke factoren voor het veroorzaken van deze problemen zijn: het staltype, nat strooisel, zitstok- en vloermateriaal, zitstokgedrag en slechte poothygiëne.
+Ook problemen aan de voeten/voetzolen komen veel voor (hyperkeratose, voetzool dermatitus en “bumble foot”). Belangrijke factoren voor het veroorzaken van deze problemen zijn: het staltype, nat strooisel, zitstok- en vloermateriaal, zitstokgedrag en slechte poothygiëne.
 
 :annotation{id="61"}[Hyperkeratose is een sterke verhoorning van de huid van de voeten is. Voetzool dermatitus is een onderhuidse ontsteking van de voetzool wat kan leiden tot dood weefsel en zweren. In erge gevallen kan dit overgaan tot bolvormige laesies en zwelling; de zogenaamde “Bumble foot”, wat een erg pijnlijke aandoening is. “Bumble foot” komt met name voor in systemen met (harde) zitstokken. Een ondergrond met slechte hygiëne zoals nat strooisel of mest, vergroot de kans op het “bumble foot” syndroom ]. Dit is vaker het geval bij scharrelstallen met een harde ondergrond en een vrije uitloop met weinig begroeiing.
 

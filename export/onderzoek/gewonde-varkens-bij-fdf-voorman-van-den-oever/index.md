@@ -4,7 +4,7 @@ title: Gewonde varkens bij FDF-voorman Van den Oever
 parent: 1021
 type: page
 ---
-**Ongehoord publiceert beelden van varkens gefilmd bij Van den Oever VOF, het bedrijf van de voorman van Farmers Defence Force (Mark Van den Oever). De opnames zijn gemaakt in april 2020 en tonen ‘Beter Leven’ varkens in kale hokken op roostervloeren waaronder zich een mestkelder bevindt. Meerdere dieren hebben rood ontstoken ogen en necrotiserende wonden aan de oren.** 
+**Ongehoord publiceert beelden van varkens gefilmd bij Van den Oever VOF, het bedrijf van de voorman van Farmers Defence Force (Mark Van den Oever). De opnames zijn gemaakt in april 2020 en tonen ‘Beter Leven’ varkens in kale hokken op roostervloeren waaronder zich een mestkelder bevindt. Meerdere dieren hebben rood ontstoken ogen en necrotiserende wonden aan de oren.**
 
 **Oogontsteking**
 
@@ -12,11 +12,11 @@ Varkens met rode ogen zijn een aanwijzing dat de dieren in een ongezond stalklim
 
 **Oornecrose**
 
-Oornecrose is te herkennen aan de zwarte punten en bloederige wonden aan de oren van varkens. Oornecrose is een gevolg van oorbijten. Wanneer varkens aan elkanders oren bijten ontstaan wondjes die infecteren door bacteriën. De oren raken niet meer goed doorbloed, en de oorpunten sterven af. Naarmate de infectie vordert, wordt het oor dik en  gezwollen. :annotation{id="2"}[Uiteindelijk kunnen bacteriën via de wonden dieper het lichaam binnendringen, en organen aantasten waardoor het varken ernstig ziek wordt met risico op sterfte.]
+Oornecrose is te herkennen aan de zwarte punten en bloederige wonden aan de oren van varkens. Oornecrose is een gevolg van oorbijten. Wanneer varkens aan elkanders oren bijten ontstaan wondjes die infecteren door bacteriën. De oren raken niet meer goed doorbloed, en de oorpunten sterven af. Naarmate de infectie vordert, wordt het oor dik en gezwollen. :annotation{id="2"}[Uiteindelijk kunnen bacteriën via de wonden dieper het lichaam binnendringen, en organen aantasten waardoor het varken ernstig ziek wordt met risico op sterfte.]
 
 **Bijterij**
 
-Oorbijten is vergelijkbaar met staartbijten en andere vormen van bijterij. Het gaat om een gedragsstoornis met als voornaamste oorzaak verveling en onvoldoende stimulatie. De varkens zijn ongelukkig en uiten hun stress en frustratie op soortgenoten. :annotation{id="2"}[Andere bronnen van frustratie zijn:  een slecht stalklimaat, het samenleven met teveel dieren in een kleine ruimte, of problemen met voersamenstelling en de wijze van voerverstrekking.]:annotation{id="3"}[]
+Oorbijten is vergelijkbaar met staartbijten en andere vormen van bijterij. Het gaat om een gedragsstoornis met als voornaamste oorzaak verveling en onvoldoende stimulatie. De varkens zijn ongelukkig en uiten hun stress en frustratie op soortgenoten. :annotation{id="2"}[Andere bronnen van frustratie zijn: een slecht stalklimaat, het samenleven met teveel dieren in een kleine ruimte, of problemen met voersamenstelling en de wijze van voerverstrekking.]:annotation{id="3"}[]
 
 Bijterij is een werelddwijd probleem in de varkenshouderij. :annotation{id="4"}[Staartbijten komt op 50% van de Nederlandse varkenshouderijen voor, zowel in reguliere als in biologische bedrijven.] :annotation{id="2"}[Over oorbijten zijn geen specifieke schadecijfers bekend, maar de verwachting is dat de cijfers over oorbijten overeenkomen met de cijfers over staartbijten.]
 

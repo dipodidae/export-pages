@@ -38,7 +38,7 @@ De kalfsvleesindustrie is georganiseerd in integraties: grote kalfsvleesproducen
 
 :annotation{id="8"}[De Belgische kalvermarkt wordt beheerst door 2 producenten waarvan Vanlommel de grootste is. De familie Vanlommel heeft fortuin gemaakt met kalfsvleesproductie, hun vermogen wordt geschat op bijna 23 miljoen euro.] Dat de misstanden juist bij dit bedrijf zijn gefilmd is pijnlijk. Vanlommel zegt een voortrekkersrol te spelen op gebied van dierenwelzijn met de eigen kwaliteitsregeling “Well and Fair”. :annotation{id="9"}[Het lastenboek van Well and Fair omvat “bovenwettelijke regels” rond diergezondheid, voeder, huisvesting, training van personeel én transport. De naleving van Well and Fair wordt gecontroleerd door een (anonieme) “onafhankelijke partij”.]:annotation{id="10"}[]
 
-:annotation{id="11"}[Vanlommel claimt dat het transport van de kalveren “ altijd in optimale omstandigheden verloopt, waarbij het welzijn van de kalveren vooropstaat.”]
+:annotation{id="11"}[Vanlommel claimt dat het transport van de kalveren “altijd in optimale omstandigheden verloopt, waarbij het welzijn van de kalveren vooropstaat.”]
 
 Vanlommel bezit een eigen veevoerfabriek in Nederland (Verveka), een exportverzamelplaats in Tielt-Winge, eigen transportwagens en een kalverslachthuis in Olen. Het bedrijf heeft kalvermesters onder contract in België en Nederland. Het levert opgekochte kalfjes en veevoer uit de eigen fabriek aan zijn vaste kalvermesters. :annotation{id="12"}[Rond de leeftijd van 6 maanden worden de kalveren opgehaald om geslacht te worden in Vanlommels slachterij. 70 procent van de vleesproductie is bestemd voor export.]:annotation{id="13"}[]
 
@@ -163,6 +163,6 @@ Ongehoord vroeg ook inspectiedocumenten op over de aanvoer van ongeschikte Belgi
 
 Na de slacht werden ongeboren kalfjes uit de baarmoeder van de dode moeder gehaald. Foto’s in de inspectierapporten tonen kalfjes van bijna een meter lengte. De dieren zijn volledig behaard en hebben al snijtanden.
 
-Transport van hoogzwangere koeien naar de slachterij houdt niet alleen lijden in voor de moeder tijdens de rit. Er is ook een welzijnsprobleem voor het ongeboren kalf. :annotation{id="48"}[Als de moeder geslacht wordt, krijgt het kalf geen zuurstof meer en sterft de verstikkingsdood in de baarmoeder. Europese onderzoekers zijn het erover eens dat foetussen vanaf 6 maanden van de dracht al pijn en stress kunnen ervaren.]
+Transport van hoogzwangere koeien naar de slachterij houdt niet alleen lijden in voor de moeder tijdens de rit. Er is ook een welzijnsprobleem voor het ongeboren kalf. :annotation{id="48"}[Als de moeder geslacht wordt, krijgt het kalf geen zuurstof meer en sterft de verstikkingsdood in de baarmoeder. Europese onderzoekerszijn het erover eens dat foetussen vanaf 6 maanden van de dracht al pijn en stress kunnen ervaren.]
 
 In totaal rapporteerden NVWA dierenartsen in 2021-2022 een dertigtal hoogzwangere moederkoeien die vanuit België naar Nederlandse slachterijen werden vervoerd. Behalve voor hoogzwangere dieren schreven FAVV dierenartsen exportvergunningen uit voor 2 zieke kalveren, en zeven vergunningen voor ernstig kreupele, gewonde of zieke runderen.
