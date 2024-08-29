@@ -29,6 +29,9 @@ importers:
       mysql2:
         specifier: ^3.11.0
         version: 3.11.0
+      php-serialize:
+        specifier: ^5.0.1
+        version: 5.0.1
       turndown:
         specifier: ^7.2.0
         version: 7.2.0
@@ -1160,6 +1163,10 @@ packages:
 
   pathe@1.1.2:
     resolution: {integrity: sha512-whLdWMYL2TwI08hn8/ZqAbrVemu0LNaNNJZX73O6qaIdCTfXutsLhMkjdENX0qhsQ9uIimo4/aQOmXkoon2nDQ==}
+
+  php-serialize@5.0.1:
+    resolution: {integrity: sha512-+uxULDruX7uwGZmC1HjcvQMg6APyK1wzWXnaRR0Vxb7Vk4YMn5/Chp9tm+ccNqmXOtfZ/oZVbR8GZnPnojltDw==}
+    engines: {node: '>= 8'}
 
   picocolors@1.0.1:
     resolution: {integrity: sha512-anP1Z8qwhkbmu7MFP5iTt+wQKXgwzf7zTyGlcdzabySa9vd0Xt392U0rVmz9poOaBj0uHJKyyo9/upk0HrEQew==}
@@ -2698,6 +2705,8 @@ snapshots:
   path-type@4.0.0: {}
 
   pathe@1.1.2: {}
+
+  php-serialize@5.0.1: {}
 
   picocolors@1.0.1: {}
 

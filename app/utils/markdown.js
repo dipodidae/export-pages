@@ -28,9 +28,17 @@ function cleanContent(content) {
   return content
 }
 
-function replaceAnnotations(content) {
+function transformAnnotations(content) {
   const annotationPattern = /\\\[annotation id="(\d+)"\\\]\s?(.*?)\\\[\/annotation\\\]/gs
   return content.replace(annotationPattern, ':annotation{id="$1"}[$2]')
+}
+
+function transformVideos(content) {
+  const pattern = /\\\[content-video url="(.*?)"\\\]/g
+
+  return content.replace(pattern, (_match, p1) => {
+    return `\n\n::dropdown{url="${p1}"}\n::\n\n`
+  })
 }
 
 export function convert(content = '', metaData = {}) {
@@ -44,7 +52,8 @@ export function convert(content = '', metaData = {}) {
   }
 
   content = cleanContent(content)
-  content = replaceAnnotations(content)
+  content = transformAnnotations(content)
+  content = transformVideos(content)
   content = addFrontMatter(content, metaData)
 
   return content
