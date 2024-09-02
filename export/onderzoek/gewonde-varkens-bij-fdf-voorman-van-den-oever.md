@@ -5,7 +5,7 @@ intro: >-
   bedrijf van de voorman van Farmers Defence Force (Mark Van den Oever). De
   opnames zijn gemaakt in april 2020 en tonen ‘Beter Leven’ varkens in kale
   hokken op roostervloeren waaronder zich een mestkelder bevindt. Meerdere
-  dieren hebben rood ontstoken ogen en necrotiserende wonden aan de oren.  
+  dieren hebben rood ontstoken ogen en necrotiserende wonden aan de oren.
 categories:
   - pigs
 video: https://vimeo.com/867617679

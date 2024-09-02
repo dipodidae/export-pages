@@ -1,6 +1,6 @@
-import he from 'he'
 import TurndownService from 'turndown'
 import { addFrontMatter } from './front-matter.js'
+import decode from './decode.js'
 
 const turndownService = new TurndownService({
   headingStyle: 'atx',
@@ -21,13 +21,6 @@ function convertHtmlToMarkdown(content) {
   `)
 }
 
-function cleanContent(content) {
-  content = content.split('\n').map(line => line.trim()).join('\n')
-  content = content.replace(/[\v\f\u00A0\u0085\u1680\u180E\uFEFF\u2000-\u200B\u2028\u2029\u202F\u205F\u3000]/g, '')
-
-  return content
-}
-
 function transformAnnotations(content) {
   const annotationPattern = /\\\[annotation id="(\d+)"\\\]\s?(.*?)\\\[\/annotation\\\]/gs
   return content.replace(annotationPattern, ':annotation{id="$1"}[$2]')
@@ -42,13 +35,12 @@ function transformVideos(content) {
 }
 
 export function convert(content = '', metaData = {}) {
-  content = he.decode(content)
+  content = decode(content)
 
   if (isHtml(content)) {
     content = convertHtmlToMarkdown(content)
   }
 
-  content = cleanContent(content)
   content = transformAnnotations(content)
   content = transformVideos(content)
   content = addFrontMatter(content, metaData)

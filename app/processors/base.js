@@ -1,6 +1,6 @@
-import he from 'he'
 import { getSlug } from '../utils/path.js'
 import { save as saveFileWithContent } from '../utils/files.js'
+import decode from '../utils/decode.js'
 
 export default class BaseProcessor {
   constructor(posts, post) {
@@ -15,7 +15,7 @@ export default class BaseProcessor {
   async save() {
     return saveFileWithContent(
       this.getFileName(),
-      he.decode(this.post.post_content),
+      decode(this.post.post_content),
     )
   }
 }

@@ -4,7 +4,7 @@ intro: >-
   Ongehoord onderzocht de megastal van Annechien ten Have-Mellema. De
   Dierenbescherming geeft twee sterren voor haar Hamletz-vlees, dat verkocht
   wordt bij Albert Heijn.Ten Have-Mellema adviseert als lid van de Raad voor
-  Dieraangelegenheden de overheid over dierenwelzijn. 
+  Dieraangelegenheden de overheid over dierenwelzijn.
 categories:
   - pigs
 video: https://vimeo.com/641281366

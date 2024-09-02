@@ -17,12 +17,8 @@ De kalfsvleesindustrie is georganiseerd in integraties: grote kalfsvleesproducen
 
 ## Locatie 1: Verzamelplaats Vanlommel, Tielt-Winge
 
-
-
 ::content-video{url="https://vimeo.com/816351997" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/2-tieltwingeallemaalslaan-1.jpg"}
 ::
-
-
 
 :annotation{id="7"}[In de Binkomstraat 90 te Tielt-Winge (provincie Vlaams-Brabant) ligt het verzamelcentrum van Vanlommel, de grootste kalfsvleesproducent van België. In de verzamelplaats worden kalfjes van 14 dagen oud verzameld om in grote groepen op transport te gaan naar Vanlommels contractmesters in België en Nederland.] In een tijdsspanne van vier dagen werden met verborgen camera de volgende misstanden gefilmd:
 
@@ -52,12 +48,8 @@ In 2011 kreeg Vanlommel subsidies voor investering in “energiebesparing of mil
 
 ## Locatie 2: de Kempense Exportstal, Merksplas
 
-
-
 ::content-video{url="https://vimeo.com/816361683" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/3-Merksplaskindduwtkalf-1.jpg"}
 ::
-
-
 
 In de Bosstraat 11 te Merksplas (provincie Antwerpen) bevindt zich de Kempense Exportstal van de familie van der Walle, Nederlandse kalvermesters en veehandelaars.
 
@@ -100,12 +92,8 @@ Ongehoord plaatste verborgen camera’s in 2 Nederlandse runderverzamelplaatsen.
 
 ## Locatie 3: Dane en Zoon, Oudemolen
 
-
-
 ::content-video{url="https://vimeo.com/816351134" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/4-Oudemolentrekkenaankoe-1.jpg"}
 ::
-
-
 
 Aan de Stadsedijk 44 te Oudemolen (provincie Noord-Brabant) ligt het verzamelcentrum van veehandel Dane en Zoon. Ze verzamelen en verhandelen runderen voor de binnen- en buitenlandse markten. In een tijdsspanne van 2 weken filmden we de volgende misstanden:
 
@@ -131,12 +119,8 @@ Ook de familie Dane ontvangt Europese subsidies. Volgens de subsidie-database va
 
 ## Locatie 4: Veebedrijf Kuiper V.O.F., Hoogblokland
 
-
-
 ::content-video{url="https://vimeo.com/816356235" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/5-hopoblokland1.jpg"}
 ::
-
-
 
 Aan de Beemdweg 5 B in Hoogblokland ligt de verzamelplaats van veetransporteur Teus Kuiper.
 

@@ -23,4 +23,4 @@ Onze perswoordvoerders zijn via bovenstaande gegevens te bereiken. Hoge resoluti
 
 Donaties kunnen overgemaakt worden op giro NL15INGB0005125909 t.n.v. ONGEHOORD te Amsterdam. Het is ook mogelijk een donatie te doen via PayPal. Klik op de knop hieronder.
 
-![](https://www.paypalobjects.com/nl_NL/i/scr/pixel.gif)
+  ![](https://www.paypalobjects.com/nl_NL/i/scr/pixel.gif)

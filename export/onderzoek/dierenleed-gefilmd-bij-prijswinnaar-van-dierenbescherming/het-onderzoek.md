@@ -5,12 +5,8 @@ In juni en september 2021 deed Ongehoord onderzoek naar de wroetvarken-keten. Ee
 
 ## Varkens met ernstige bijtwonden in de wroetstal van oprichter Broenink
 
-
-
 ::content-video{url="https://vimeo.com/641289720"}
 ::
-
-
 
 Het onderzoeksteam bezocht de wroetstal van Jan Broenink in Langeveen, die vergund is om 1000 vleesvarkens te houden. In het bedrijf waren opgroeiende vleesvarkens van verschillende leeftijden aanwezig. Ongehoorde filmde bij Broenink varkens met ernstige wonden door staart- en oorbijterij, schrammen en wonden op het lichaam, navelbreuken, en ernstige kreupelheid.
 
@@ -20,12 +16,8 @@ In de voerbakken van de varkens wemelde het van de vliegen. :annotation{id="20"}
 
 ## Subfokker Tijink: wonden, kreupelheid, huidziekten
 
-
-
 ::content-video{url="https://vimeo.com/643194715"}
 ::
-
-
 
 In de fokkerij van Tijink waren varkens van diverse leeftijden aanwezig. De dieren zaten in hokken met betonvloeren en roosters, zonder strooisel. Ook in dit bedrijf wemelde het van de vliegen.
 
