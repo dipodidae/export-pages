@@ -8,7 +8,7 @@ export default class extends BaseProcessor {
 
     const basePath = postOrder.map(post => this.getSlug(post.post_title)).join('/')
 
-    return `${basePath}/annotations/${this.post.id}.md`
+    return `${basePath}/bronnen/${this.post.id}.md`
   }
 
   setPostOrder(posts) {
