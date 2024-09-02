@@ -37,7 +37,7 @@ function transformVideos(content) {
   const pattern = /\\\[content-video url="(.*?)"\\\]/g
 
   return content.replace(pattern, (_match, p1) => {
-    return `\n\n::dropdown{url="${p1}"}\n::\n\n`
+    return `\n\n::content-video{url="${p1}"}\n::\n\n`
   })
 }
 
@@ -46,9 +46,6 @@ export function convert(content = '', metaData = {}) {
 
   if (isHtml(content)) {
     content = convertHtmlToMarkdown(content)
-  }
-  else {
-    metaData.isHtml = false
   }
 
   content = cleanContent(content)

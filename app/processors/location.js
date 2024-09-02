@@ -1,7 +1,7 @@
 import phpSerialize from 'php-serialize'
-import BaseProcessor from './base.js'
+import PostProcessor from './post.js'
 
-export default class extends BaseProcessor {
+export default class extends PostProcessor {
   getCategories(serializedCategories) {
     if (!serializedCategories) {
       return []
@@ -9,6 +9,10 @@ export default class extends BaseProcessor {
 
     const categories = phpSerialize.unserialize(serializedCategories)
     return Object.entries(categories).map(([_key, value]) => value)
+  }
+
+  getFileName() {
+    return `locations/${this.getSlug(this.post.post_title)}.md`
   }
 
   transformMetaData(metaData) {

@@ -3,8 +3,8 @@ import path from 'node:path'
 function convertTitleToSlug(page) {
   return page.post_title.replace(/[^a-z0-9]/gi, '_').toLowerCase()
 }
-export function getSlug(page) {
-  let slug = page.post_title.replace(/[^a-z0-9]/gi, '-').toLowerCase()
+export function getSlug(string = '') {
+  let slug = string.replace(/[^a-z0-9]/gi, '-').toLowerCase()
 
   slug = slug.replace(/-+/g, '-')
   slug = slug.replace(/^-|-$/g, '')

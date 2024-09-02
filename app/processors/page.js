@@ -1,41 +1,93 @@
 import phpSerialize from 'php-serialize'
-import BaseProcessor from './base.js'
+import AnnotationProcessor from './annotation.js'
+import PostProcessor from './post.js'
 
-export default class extends BaseProcessor {
+export default class extends PostProcessor {
+  getPostOrder() {
+    const postsInOrder = [this.post]
+
+    let postId = this.post.post_parent
+
+    while (postId) {
+      const parentPost = this.posts.find(p => p.ID === postId)
+
+      if (!parentPost) {
+        break
+      }
+
+      postsInOrder.unshift(parentPost)
+
+      postId = parentPost.post_parent
+    }
+
+    const hasChildren = postId => this.posts.some(p => p.post_parent === postId)
+
+    if (hasChildren(this.post.ID)) {
+      postsInOrder.push({
+        post_title: 'index',
+      })
+    }
+
+    return postsInOrder
+  }
+
+  getPath() {
+    return this.getPostOrder()
+      .map(pageInOrder => this.getSlug(pageInOrder.post_title))
+      .join('/')
+  }
+
+  hasParentWithTitle(title = '') {
+    if (!this.post.parent) {
+      return false
+    }
+
+    const parent = this.posts.find(possibleParent => possibleParent.ID === this.post.parent)
+
+    return parent.post_title === title || this.hasParentWithTitle(parent, title)
+  }
+
+  getFileName() {
+    return `${this.getPath()}.md`
+  }
+
   getCategories(serializedCategories) {
     const categories = phpSerialize.unserialize(serializedCategories)
     return Object.entries(categories).map(([_key, value]) => value)
   }
 
-  parseAnnotations(attachments = '') {
-    let parsedAttachments = {}
-
-    try {
-      parsedAttachments = JSON.parse(attachments)
-    }
-    catch {
-      console.error('Error parsing annotations', attachments)
+  getAnnotations(attachments = '') {
+    if (!attachments) {
+      return []
     }
 
-    return (parsedAttachments.annotations ?? []).map((annotation) => {
-      return {
-        content: annotation.content,
-        id: annotation.id,
-      }
-    })
+    const parsedAttachments = JSON.parse(attachments)
+
+    return parsedAttachments.annotations || []
+  }
+
+  saveAnnotations(metaData = {}) {
+    this.getAnnotations(metaData.attachments)
+      .map(({ fields }) => {
+        const processor = new AnnotationProcessor(this.posts, {
+          id: fields.id,
+          post_content: fields.content,
+        })
+
+        processor.setPostOrder(this.getPostOrder())
+
+        return processor
+      })
+      .forEach(processor => processor.save())
   }
 
   transformMetaData(metaData) {
     const transformedMetaData = {}
 
+    this.saveAnnotations(metaData)
+
     if (metaData['ongehoord-intro']) {
       transformedMetaData.intro = metaData['ongehoord-intro']
-    }
-
-    const annotations = this.parseAnnotations(metaData.attachments)
-
-    if (annotations.length) {
-      transformedMetaData.attachments = annotations
     }
 
     if (metaData['ongehoord-article-categories']) {
@@ -51,9 +103,5 @@ export default class extends BaseProcessor {
     }
 
     return transformedMetaData
-  }
-
-  getFileName() {
-    return `locaties/${this.getPath()}.md`
   }
 }
