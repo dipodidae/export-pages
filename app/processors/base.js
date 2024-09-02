@@ -12,10 +12,16 @@ export default class BaseProcessor {
     return getSlug(string)
   }
 
+  getContent() {
+    return decode(this.post.post_content).replace(/\n/, '\n')
+  }
+
   async save() {
+    const content = await this.getContent()
+
     return saveFileWithContent(
       this.getFileName(),
-      decode(this.post.post_content),
+      content,
     )
   }
 }

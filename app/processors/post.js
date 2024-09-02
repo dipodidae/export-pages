@@ -1,5 +1,4 @@
 import getMetaData from '../queries/meta-data.js'
-import { save as saveFileWithContent } from '../utils/files.js'
 import { convert } from '../utils/markdown.js'
 import BaseProcessor from './base.js'
 
@@ -33,13 +32,10 @@ export default class extends BaseProcessor {
     }
   }
 
-  async save() {
-    return saveFileWithContent(
-      this.getFileName(),
-      convert(
-        this.post.post_content,
-        await this.parseMetaData(),
-      ),
+  async getContent() {
+    return convert(
+      this.post.post_content,
+      await this.parseMetaData(),
     )
   }
 }
