@@ -21,10 +21,12 @@
     "markdown-it": "^14.1.0",
     "mysql2": "^3.11.2",
     "php-serialize": "^5.0.1",
+    "slug": "^9.1.0",
     "turndown": "^7.2.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.6.0",
-    "eslint": "^9.10.0"
+    "eslint": "^9.10.0",
+    "eslint-plugin-format": "^0.1.2"
   }
 }

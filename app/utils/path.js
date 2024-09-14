@@ -1,5 +1,5 @@
 import path from 'node:path'
-
+import slug from 'slug'
 /**
  * Converts a page title to a slug by replacing non-alphanumeric characters with underscores and converting to lowercase.
  *
@@ -18,12 +18,7 @@ function convertTitleToSlug(page) {
  * @returns {string} The slugified string.
  */
 export function getSlug(string = '') {
-  let slug = string.replace(/[^a-z0-9]/gi, '-').toLowerCase()
-
-  slug = slug.replace(/-+/g, '-')
-  slug = slug.replace(/^-|-$/g, '')
-
-  return slug
+  return slug(string, { lower: true })
 }
 
 /**

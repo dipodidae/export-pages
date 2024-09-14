@@ -53,9 +53,11 @@ export default class LocationProcessor extends PostProcessor {
    * @returns {string} The constructed file name for the current post.
    */
   getFileName() {
-    const pageProcessor = new PageProcessor(this.pages, this.getPageById(this.post.metaData['ongehoord-location-article']))
+    const page = this.getPageById(this.post.metaData['ongehoord-location-article'])
 
-    const pagesInOrder = pageProcessor.getPostsInOrder()
+    const pageProcessor = new PageProcessor(this.pages, page)
+
+    const pagesInOrder = pageProcessor.getPostHierarchy(page, this.pages)
 
     const path = pagesInOrder.map(pageInOrder => pageProcessor.getSlug(pageInOrder.post_title)).join('/')
 

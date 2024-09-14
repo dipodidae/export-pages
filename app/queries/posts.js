@@ -57,7 +57,9 @@ export default async function getPostsByType(postType) {
   try {
     const [posts] = await query(postType)
 
-    return posts.map(transformPost)
+    const transformedPosts = await Promise.all(posts.map(transformPost))
+
+    return transformedPosts
   }
   catch (error) {
     throw new Error(`Failed to retrieve posts of type ${postType}: ${error.message}`)

@@ -1,36 +1,23 @@
+import he from 'he'
 import phpSerialize from 'php-serialize'
 import AnnotationProcessor from './annotation.js'
 import PostProcessor from './post.js'
 
 export default class extends PostProcessor {
-  /**
-   * Retrieves the order of posts starting from the current post up to the root parent.
-   *
-   * @returns {Array<object>} An array of posts in order from the current post to the root parent.
-   */
   getPostOrder() {
-    const postsInOrder = this.getPostsInOrder(this.post, this.posts)
-    return this.addIndexIfNecessary(postsInOrder, this.post, this.posts)
+    return this.addIndexIfNecessary(this.getPostHierarchy())
   }
 
-  /**
-   * Retrieves the posts in order from the current post to the root parent.
-   *
-   * @param {object} post - The current post object.
-   * @param {Array<object>} posts - The array of all posts.
-   * @returns {Array<object>} An array of posts in order from the current post to the root parent.
-   */
-  getPostsInOrder(post, posts) {
-    const postsInOrder = [post]
+  getPostHierarchy() {
+    const postsInOrder = [this.post]
 
-    let postId = post.post_parent
+    let postId = this.post.post_parent
 
     while (postId) {
-      const parentPost = posts.find(p => p.ID === postId)
+      const parentPost = this.posts.find(post => post.ID === postId)
 
-      if (!parentPost) {
+      if (!parentPost)
         break
-      }
 
       postsInOrder.unshift(parentPost)
 
@@ -40,31 +27,15 @@ export default class extends PostProcessor {
     return postsInOrder
   }
 
-  /**
-   * Adds an index post if the current post has children.
-   *
-   * @param {Array<object>} postsInOrder - The array of posts in order.
-   * @param {object} post - The current post object.
-   * @param {Array<object>} posts - The array of all posts.
-   * @returns {Array<object>} The updated array of posts with the index post added if necessary.
-   */
-  addIndexIfNecessary(postsInOrder, post, posts) {
-    const hasChildren = postId => posts.some(p => p.post_parent === postId)
+  addIndexIfNecessary(postsInOrder) {
+    const hasChildren = postId => this.posts.some(post => post.post_parent === postId)
 
-    if (hasChildren(post.ID)) {
-      postsInOrder.push({
-        post_title: 'index',
-      })
-    }
+    if (hasChildren(this.post.ID))
+      postsInOrder.push({ post_title: 'index' })
 
     return postsInOrder
   }
 
-  /**
-   * Constructs the path for the current post based on its order.
-   *
-   * @returns {string} The constructed path for the current post.
-   */
   getPath() {
     return this.getPostOrder()
       .map(pageInOrder => this.getSlug(pageInOrder.post_title))
@@ -78,9 +49,8 @@ export default class extends PostProcessor {
    * @returns {boolean} True if a parent with the specified title exists, false otherwise.
    */
   hasParentWithTitle(title = '') {
-    if (!this.post.parent) {
+    if (!this.post.parent)
       return false
-    }
 
     const parent = this.posts.find(possibleParent => possibleParent.ID === this.post.parent)
 
@@ -114,9 +84,8 @@ export default class extends PostProcessor {
    * @returns {Array<object>} An array of annotation objects.
    */
   getAnnotations(attachments = '') {
-    if (!attachments) {
+    if (!attachments)
       return []
-    }
 
     const parsedAttachments = JSON.parse(attachments)
 
@@ -147,25 +116,29 @@ export default class extends PostProcessor {
    * @returns {object} The transformed metadata.
    */
   parseMetaData() {
-    const transformedMetaData = {
+    const metaData = {
       title: this.post.post_title,
     }
 
     if (this.post.metaData['ongehoord-intro'])
-      transformedMetaData.intro = this.post.metaData['ongehoord-intro']
+      metaData.description = he.decode(this.post.metaData['ongehoord-intro']).replace('\r\n', ' ')
 
     if (this.post.metaData['ongehoord-article-categories'])
-      transformedMetaData.categories = this.getCategories(this.post.metaData['ongehoord-article-categories'])
+      metaData.categories = this.getCategories(this.post.metaData['ongehoord-article-categories'])
 
     if (this.post.metaData['ongehoord-video'])
-      transformedMetaData.video = this.post.metaData['ongehoord-video']
+      metaData.video = this.post.metaData['ongehoord-video']
 
     if (this.post.metaData['ongehoord-year'])
-      transformedMetaData.year = this.post.metaData['ongehoord-year']
+      metaData.year = this.post.metaData['ongehoord-year']
 
-    if (this.post.thumbnail_url)
-      transformedMetaData.image = this.post.thumbnail
+    if (this.post.thumbnail_url) {
+      metaData.image = {
+        src: this.post.thumbnail_url,
+        alt: this.post.post_title,
+      }
+    }
 
-    return transformedMetaData
+    return metaData
   }
 }
