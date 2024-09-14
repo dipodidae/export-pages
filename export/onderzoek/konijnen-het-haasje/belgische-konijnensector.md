@@ -1,9 +1,11 @@
 ---
 title: Belgische konijnensector
+description: Konijnen het haasje - Belgische konijnensector
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2024/01/konijn-dood.jpg
   alt: Belgische konijnensector
 ---
+
 Naast Konzo zijn er nog een veertiental professionele konijnenfokkers in België, voornamelijk in Vlaanderen. Met de Belgische en Vlaamse wetgeving rond parkhuisvesting claimt de sector koploper te zijn in dierenwelzijn. De parkkooien zijn sinds 2016 verplicht voor vleeskonijnen (leeftijd: 5 weken tot slacht) en vanaf 2025 ook voor moederkonijnen. :annotation{:ids="[16]"}[Via subsidieregelingen kan de sector een aanzienlijk deel van de kosten voor ombouw naar “diervriendelijke parkhuisvesting” doorschuiven naar de belastingbetaler.]
 
 Uit vakliteratuur blijkt echter dat parkkooien konijnen geen goed leven garanderen en dat de gefilmde misstanden bij Konzo geen incidenten zijn.

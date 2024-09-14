@@ -17,4 +17,5 @@ stableSystem: Rondeel
 companyName: Rondeel BV
 title: Barneveld | Van Amerongenweg 3 |Rondeel
 ---
+
 Rondeel-boerderijen krijgen van de Dierenbescherming 3 sterren van het Beter Leven keurmerk

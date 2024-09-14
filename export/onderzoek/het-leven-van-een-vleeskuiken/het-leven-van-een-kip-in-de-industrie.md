@@ -1,9 +1,11 @@
 ---
 title: Het leven van een kip in de industrie
+description: Het leven van een vleeskuiken - Het leven van een kip in de industrie
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2013/09/IMG_2363.jpg
   alt: Het leven van een kip in de industrie
 ---
+
 Het vlees dat in de supermarkt verkocht wordt als kip is eigenlijk kuikenvlees. Al na 6 weken, of hoogstens 12 bij biologisch, gaan de kuikens op transport naar het slachthuis. De dieren groeien in deze korte periode tot een gewicht van 2 tot 3 kilo. Dit is alleen mogelijk doordat ze enorm zijn doorgefokt op groeisnelheid. De vleeskuikensector is erop toegespitst om met zo min mogelijk voer, in zo kort mogelijke tijd zo veel mogelijk kippenvlees te produceren, omdat op die manier de meeste winst gemaakt kan worden. Om dat te bereiken bestaat de vleeskuikensector uit een serie van sterk gespecialiseerde bedrijven.
 
 ## Fokbedrijf

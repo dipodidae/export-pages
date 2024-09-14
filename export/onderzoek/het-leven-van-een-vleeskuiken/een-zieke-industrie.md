@@ -1,9 +1,11 @@
 ---
 title: Een zieke industrie
+description: Het leven van een vleeskuiken - Een zieke industrie
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2013/09/voetzoollaessies.jpg
   alt: Een zieke industrie
 ---
+
 Vleeskuikens kampen met een grote verscheidenheid aan ziektes en gedragsproblemen. De problemen worden veroorzaakt door een combinatie van snelle groei en de onnatuurlijke omstandigheden in de stal. De stress die kippen hebben door de hoge bezettingsgraad, maakt hen vatbaar voor ziekteverwekkers.
 
 ## Voetzoollaesies

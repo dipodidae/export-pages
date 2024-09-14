@@ -10,6 +10,7 @@ image:
     https://rest.ongehoord.info/wp-content/uploads/2023/09/featured-image-000.jpg
   alt: NVWA nog steeds in de fout
 ---
+
 ## Ernstig zieke dieren geëxporteerd naar buitenlandse slachthuizen
 
 Uit documenten die onderzoeksgroep Ongehoord vandaag naar buiten brengt, blijkt dat de Nederlandse Voedsel- en Warenautoriteit (NVWA) nog steeds de regels niet naleeft bij de export van dieren. Zieke en gewonde dieren mogen niet op transport gezet worden. Toch kwamen bij Vlaamse slachthuizen het afgelopen anderhalf jaar koeien aan met opgezwollen uiers en pootproblemen. Bijna honderd varkens hadden gezwellen, abcessen, ontstekingen en andere ernstige aandoeningen. De recente beloftes van minister Schouten over verscherpt toezicht lijken hiermee ongeloofwaardig.

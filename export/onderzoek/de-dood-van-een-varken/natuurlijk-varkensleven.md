@@ -1,9 +1,11 @@
 ---
 title: Natuurlijk varkensleven
+description: De dood van een varken - Natuurlijk varkensleven
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2020/01/natuurlijk-leven.jpg
   alt: Natuurlijk varkensleven
 ---
+
 Wilde zwijnen zijn groepsdieren die in bosrijke gebieden leven. Varkensgroepen worden gekenmerkt door een matriarchale structuur. Een twee- tot vijftal nauw verwante zeugen met hun nakomelingen trekken samen op, jong volwassen beren scheiden zich van de groep af op een leeftijd van 7-8 maanden. De jonge beren vormen dan groepjes van 2 tot 3 dieren. Volwassen beren (ouder dan 3 jaar) leven meestal solitair. In de paartijd sluiten de beren zich tijdelijk aan bij een groep.
 
 Het leefgebied van een familiegroep varkens kan afhankelijk van de beschikbaarheid van voedsel, variëren van minder dan 100 ha tot meer dan 2500 ha. Hoger gelegen, dicht beboste delen van het gebied worden gebruikt voor rust en nestplaats, terwijl lagere, meer open terreinen gebruikt worden om voedsel te zoeken.

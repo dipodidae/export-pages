@@ -1,21 +1,19 @@
 ---
 title: Vergassen, elektrokuteren, doodbloeden
+description: De dood van een varken - Vergassen, elektrokuteren, doodbloeden
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2020/01/gaslift2.jpg
   alt: Vergassen, elektrokuteren, doodbloeden
 ---
+
 ## Vergassen of elektrocuteren
 
 :annotation{:ids="[18]"}[Volgens de Europese regelgeving (VERORDENING (EG) Nr. 1099/2009) moeten dieren bedwelmd (verdoofd) worden voor ze geslacht worden.] Bedwelmen betekent dat de dieren in een staat van bewusteloosheid en gevoelloosheid worden gebracht. In Nederlandse slachthuizen worden voor varkens in principe twee methodes gebruikt, namelijk elektrische bedwelming of bedwelming met CO2- gas.
 
 Bedwelming van varkens in geautomatiseerde elektrische verdovingsinstallaties veroorzaakt veel stress en angst bij het opdrijven en fixeren voor de daadwerkelijke verdovingshandeling. Vanuit de wachthokken worden varkens in een groep naar de verdovingsinstallatie gedreven. Bij de installatie aangekomen, moeten de dieren uit de groep gehaald worden en op een rij achter elkaar gefixeerd worden. Omdat varkens groepsdieren zijn, is dit voor hen een zeer onnatuurlijke en stresserende situatie. Door de moeilijkheden bij het drijven en fixeren van de dieren, kan de totale periode van stress in het proces van elektrisch verdoven 60 tot 120 seconden duren. Als de varkens gefixeerd zijn, rollen ze via een transportband de installatie in. Daar krijgen ze elektroden tegen hun hoofd geduwd om elektrische stroom door de hersenen te leiden. Dit lokt een epileptische aanval uit waardoor het dier in een staat van bewusteloosheid en gevoelloosheid raakt. :annotation{:ids="[19]"}[In de praktijk kan het voorkomen, zeker met de huidige hoge slachtsnelheid, dat de elektroden niet correct geplaatst worden wat pijnlijke elektrische schokken en brandplekken veroorzaakt.] :annotation{:ids="[20]"}[Naast ernstige welzijnsproblemen voor de dieren, leidt elektrische verdoving tot slechtere vleeskwaliteit zoals bloedingen in het vlees.]
 
-
-
 ::external-video{url="https://vimeo.com/manage/videos/655684665"}
 ::
-
-
 
 De meeste grote varkensslachterijen maken gebruik van een vergassingsinstallatie om varkens te bedwelmen voor de slacht. De varkens worden in groepjes van gemiddeld een achttal individuen in een gaslift geplaatst. De gaslift zakt vervolgens met de dieren in een put die gevuld is met een hoge concentratie van CO2-gas. Volgens regelgeving moet een concentratie van minstens 80% CO2 gebruikt worden, maar in Nederland gebruiken de slachthuizen doorgaans concentraties van 90%. In proeven van WUR werd wetenschappelijk onderzocht hoelang het duurt voordat varkens in een gasinstallatie het bewustzijn verliezen. Hiertoe werd de hersenactiviteit van de dieren gemeten door middel van EEG onderzoek. :annotation{:ids="[21]"}[Bij een gasconcentratie van 95% duurde het 20 seconden voordat de varkens bewusteloos raakten, bij een concentratie van 85% werd tot 32 seconden lang hersenactiviteit vastgesteld.]
 
@@ -25,12 +23,8 @@ Het undercover onderzoek bij Westfort toont hoe gasbedwelming verloopt. De varke
 
 ## Elektronarcose-tang en penschiettoestel
 
-
-
 ::external-video{url="https://vimeo.com/manage/videos/815553796"}
 ::
-
-
 
 Naast bedwelming in geautomatiseerde elektrische installaties en vergassingsinstallaties wordt in slachthuizen ook gebruik gemaakt van elektronarcose-tangen en penschiettoestellen. Deze draagbare bedwelmingsapparaten worden gebruikt voor varkens die bij aankomst in het slachthuis een ‘noodslachting’ moeten ondergaan. Dit is het geval voor dieren die niet in staat zijn om zelfstandig en pijnloos te lopen, bijvoorbeeld omwille van ernstige kreupelheid. Deze dieren worden na het uitladen gedood met een elektronarcose-tang. De tang wordt eerst tegen de kop geplaatst om het dier te bedwelmen. Vervolgens wordt de tang tegen het hart geplaatst, wat de dood veroorzaakt.
 
@@ -40,19 +34,15 @@ Vergeleken met andere diersoorten is het relatief lastig om varkens te bedwelmen
 
 ## (On)bedwelmd doodbloeden
 
-
-
 ::external-video{url="https://vimeo.com/manage/videos/815555663"}
 ::
 
-
-
-Na het toedienen van de bedwelming worden de varkens met een ketting rond de achterpoot opgetakeld. Via een railsysteem worden de dieren naar de slachters gevoerd om gestoken te worden, wat betekent dat de halsslagaders doorgesneden worden. Vervolgens moet het dier uitbloeden tot de dood intreedt. Na het uitbloeden worden de varkens via het railsysteem naar een heet waterbad gevoerd. Het waterbad heeft een temperatuur van 60 graden en dient om de haren van de varkens los te weken zodat ze makkelijker verwijderd kunnen worden.  
+Na het toedienen van de bedwelming worden de varkens met een ketting rond de achterpoot opgetakeld. Via een railsysteem worden de dieren naar de slachters gevoerd om gestoken te worden, wat betekent dat de halsslagaders doorgesneden worden. Vervolgens moet het dier uitbloeden tot de dood intreedt. Na het uitbloeden worden de varkens via het railsysteem naar een heet waterbad gevoerd. Het waterbad heeft een temperatuur van 60 graden en dient om de haren van de varkens los te weken zodat ze makkelijker verwijderd kunnen worden.
 De gangbare bedwelmingsmethoden in de slachthuizen kunnen niet garanderen dat dieren tijdens het volledige slachtproces bewusteloos blijven. CO2 vergassing is een reversibele methode. Het leidt niet rechtstreeks tot de dood, wat betekent dat de dieren terug bij bewustzijn kunnen komen. :annotation{:ids="[27]"}[De effectiviteit van CO2 bedwelming wordt bepaald door 5 cruciale parameters, namelijk de CO2 concentraties, de kwaliteit van het gas, de temperatuur van het gas, de duur van de blootstelling, en het maximale tijdsinterval tussen bedwelmen en steken.] Onvoorziene storingen aan de slachtlijn kunnen ertoe leiden dat het tijdsinterval tussen vergassen en steken te hoog oploopt waardoor de bedwelming is uitgewerkt voordat de dieren doodgebloed zijn. Andere aspecten die kunnen leiden tot onvoldoende bedwelming zijn teveel varkens in een gondel waardoor er onvoldoende ruimte is om (voldoende) diep adem te halen en varkens te weinig CO2 binnenkrijgen, en onvoldoende onderhoud aan de installatie waardoor de CO2 concentratie te laag is. :annotation{:ids="[28]"}[Vaak is de installatie wel voorzien van een alarm, maar dit wordt afgesteld op het wettelijk minimum van 80%, terwijl dit een langere verblijftijd vereist dan bij de hogere concentraties (90%) die de Nederlandse slachthuizen normaal gesproken toepassen.]
 
 Ook elektrische verdoving houdt risico’s op onverdoofd slachten in. Slechte plaatsing van elektroden leidt tot ineffectieve bedwelming. :annotation{:ids="[29]"}[Bij correcte plaatsing wordt hartfibrillatie en hartstilstand geïnduceerd, maar tijdens het ophangen van de dieren aan de slachtlijn kan het voorkomen dat het hart vanzelf reanimeert en het dier terug bij bewustzijn komt.]
 
-Omwille van de gekende risico’s vereist Europese regelgeving (VERORDENING (EG) Nr. 1099/2009) dat er controles worden uitgevoerd op effectieve bedwelming van de dieren. Indien uit de controle blijkt dat een dier tekenen van bewustzijn vertoont (zoals bv. ritmische ademhaling, cornea reflex of ooglidreflex), moet ingegrepen worden door middel van het toedienen van een back up verdoving (bv. met een elektronarcose-tang). De controles op effectieve bedwelming aan de slachtlijn zijn echter maar verplicht voor ‘een representatieve steekproef van de dieren.’  
+Omwille van de gekende risico’s vereist Europese regelgeving (VERORDENING (EG) Nr. 1099/2009) dat er controles worden uitgevoerd op effectieve bedwelming van de dieren. Indien uit de controle blijkt dat een dier tekenen van bewustzijn vertoont (zoals bv. ritmische ademhaling, cornea reflex of ooglidreflex), moet ingegrepen worden door middel van het toedienen van een back up verdoving (bv. met een elektronarcose-tang). De controles op effectieve bedwelming aan de slachtlijn zijn echter maar verplicht voor ‘een representatieve steekproef van de dieren.’
 Naar aanleiding van undercoverbeelden in België (Exportslachthuis Tielt, 2017) heeft RTL in 2018 NVWA inspectierapporten van Nederlandse slachthuizen opgevraagd. Tot zestien keer toe stelden inspecteurs vast dat het doorsnijden van de halsslagaders slecht was uitgevoerd, waardoor de dieren niet doodgebloed waren. :annotation{:ids="[30]"}[Meerdere varkens kwamen levend en bij bewustzijn in het hete waterbad terecht, waar zij een pijnlijke verdrinkingsdood stierven.]
 
 Het undercover onderzoek bij Westfort toont hoe opgetakelde varkens gestoken worden en uitbloeden. Op de beelden zijn varkens te zien die niet effectief bedwelmd zijn tijdens het uitbloeden. We zien hoe een varken dat gestoken werd, bewegingen maakt met de bek en vervolgens heftig begint te spartelen. Een ander varken wordt verderop aan de slachtlijn geëlektrocuteerd met een elektronarcose-tang omdat het dier bij bewustzijn hing uit te bloeden.

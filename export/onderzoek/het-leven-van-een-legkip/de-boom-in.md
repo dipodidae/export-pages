@@ -1,10 +1,12 @@
 ---
 title: De boom in
+description: Het leven van een legkip - De boom in
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2019/12/red-junglefowl-140222-fy1x3105-114eos1d-1.jpg
   alt: De boom in
 ---
+
 ## Natuurlijke leven en de intelligentie van de kip
 
 De huidige gedomesticeerde kip is het resultaat van duizenden jaren fokken. Haar natuurlijke voorouder is de Rode Kamhoen (Gallus Gallus) waaruit de kip naar schatting zo’n 8000 jaar geleden is ontstaan. De Rode Kamhoen of ook wel bankivahoen genoemd, is een tropisch lid van de fazantenfamilie en is ongeveer zo groot als een krielkip. De Rode Kamhoen komt voor in de dichte bossen in India en Zuid-Oost Azie en de gekleurde veren zorgen ervoor dat ze goed gecamoufleerd zijn tussen de rode en bruine bladeren op de grond. Ook al kunnen ze korte afstanden vliegen, ze verplaatsen zich vooral door te lopen en geven de voorkeur aan dicht begroeide gebieden voor beschutting en bescherming. De Rode Kamhoen is actief in de vroege ochtend, slaapt overdag en wordt aan het eind van de middag weer actief tot in de schemering. De hanen kraaien ‘s ochtends vroeg om de grenzen van hun territorium aan te geven en om de hiërarchie te bevestigen. :annotation{:ids="[1]"}[In India leven kamhoenen in groepen van gemiddeld 5 individuen en is hun leefgebied 50 hectare groot ].

@@ -1,9 +1,11 @@
 ---
 title: Natuurlijk leven
+description: De dood van een kip - Natuurlijk leven
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2024/01/natuurlijk-leven.jpg
   alt: Natuurlijk leven
 ---
+
 :annotation{:ids="[1]"}[Om het gedrag van konijnen in gevangenschap beter te kunnen begrijpen en context te geven is het belangrijk kennis te hebben van de natuurlijke gedragsbehoeften van vrije konijnen.]:annotation{:ids="[2]"}[]:annotation{:ids="[3]"}[]:annotation{:ids="[4]"}[]
 
 Wilde konijnen hebben een voorkeur voor zanderig, heuvelachtig terrein, met struiken en bosjes, waar ze holen kunnen graven en voedsel vinden. Een familiegroep konijnen woont in een konijnenburcht, een geheel van ondergrondse tunnels, zogenaamde konijnenpijpen, en kamers waarin ze nestelen en slapen. Een burcht ligt tot drie meter diep, de totaallengte van de gangen kan ruim 40 meter zijn. In hun burcht voelen de dieren zich veilig voor roofdieren. Rond de burcht is het territorium van de dieren 0,25 tot 6 ha groot.

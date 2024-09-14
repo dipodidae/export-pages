@@ -1,9 +1,13 @@
 ---
 title: Annechien ten Have-Mellema en het Hamletz-concept
+description: >-
+  Ernstig zieke varkens bij dierenwelzijnsadviseur voor overheid - Annechien ten
+  Have-Mellema en het Hamletz-concept
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2021/10/annechien-website.jpg
   alt: Annechien ten Have-Mellema en het Hamletz-concept
 ---
+
 Zowel bij het grote publiek als in het beroepsmilieu profileert Annechien ten Have zich als vernieuwer op gebied van duurzaamheid en diervriendelijkheid. Via (social) media krijgen consumenten filmpjes te zien van moedervarkens in enorme bergen stro, biggen die knus in een “nanny” liggen, en vleesvarkens die snoepjes toegeworpen krijgen door Annechien’s kleinkinderen. Als raadslid van de Raad voor Dierenaangelegenheden heeft ten Have een vinger in de pap bij het landbouwbeleid van de overheid.
 
 ## Annechien ten Have-Mellema

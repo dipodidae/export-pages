@@ -1,9 +1,13 @@
 ---
 title: Natuurlijk gedrag van runderen
+description: >-
+  Over koetjes en kalfjes: geweld bij diertransporten in België en Nederland -
+  Natuurlijk gedrag van runderen
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2023/04/natuurlijk-gedrag.jpg
   alt: Natuurlijk gedrag van runderen
 ---
+
 Deskundigen van de Raad voor Dierenaangelegenheden (RDA) stellen dat gefokte melkkoeien of vleesrunderen dezelfde basisbehoeften en gedragingen kennen als runderen in de vrije natuur. :annotation{:ids="[4]"}[Om natuurlijke behoeften en gedrag te kunnen bestuderen, observeren wetenschappers populaties verwilderde runderen. Door natuurlijke leefomstandigheden te vergelijken met de leefomstandigheden in de vlees- en zuivelindustrie, kunnen we een goede inschatting maken van het dierenwelzijn in de industrie.]:annotation{:ids="[5]"}[]
 
 De term runderen verwijst naar een groep van herkauwende zoogdieren, waar de koe, buffel en bizon toe behoren. Onder natuurlijke omstandigheden leven runderen in gemengde groepen van enkele tientallen tot honderden dieren. In grote kuddes organiseren de dieren zich in kleinere subgroepen. Binnen de groepen heerst een stabiele rangorde. Buiten het paarseizoen leven moederkoeien en hun opgroeiende kalveren gescheiden van de stieren. Jonge stieren (vanaf 3 tot 4 jaar) leven dan in vrijgezellengroepen buiten de kudde of aan de rand van de kudde, terwijl de oudere stieren meestal solitair leven.

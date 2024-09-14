@@ -1,10 +1,12 @@
 ---
 title: Van erf naar Mega-stal
+description: Het leven van een legkip - Van erf naar Mega-stal
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2020/01/Heythuyzen_Holland1_8008Web.jpg
   alt: Van erf naar Mega-stal
 ---
+
 # Organisatie van de moderne eierindustrie
 
 Eeuwenlang scharrelden kippen vaak los over het erf en werden ze voor zowel de eieren als het vlees gehouden. Vanwege efficiëntie en economische redenen is na de Tweede Wereldoorlog een duidelijke tweedeling ontstaan tussen zogenaamde legkippen voor de eieren en vleeskippen voor de vleesproductie. Bij legrassen wordt er specifiek gefokt op zoveel mogelijk eieren leggen en bij de vleesrassen op een zo snel mogelijke groei (de welbekende “plofkip”). :annotation{:ids="[14]"}[In Nederland waren in 2016 in totaal ruim 46 miljoen legkippen ]. :annotation{:ids="[15]"}[Het gemiddeld aantal leghennen per bedrijf neemt al sinds 2004 toe en was in 2016 maar liefst 40.698 leghennen per bedrijf ]. :annotation{:ids="[14]"}[In totaal waren er in 2016 920 leghenbedrijven (36,5 miljoen leghennen) en 150 zogenaamde opfokbedrijven (9,5 miljoen leghennen) ]. Ongeveer twee derde wordt gehouden in de provincies Gelderland, Noord-Brabant en Limburg. De 36,5 miljoen leghennen leggen circa 11 miljard eieren voor consumptie in een jaar.

@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: kemperkip
 title: Loppersum | Stedumerweg 28 | Beter Leven (1 ster)
 ---
+
 In de Beter Leven stal van de familie Glas was nauwelijks het verschil te zien met een reguliere stal.

@@ -17,4 +17,5 @@ stableSystem: Scharrel-eieren
 companyName: Hubers lekkere eieren B.V.
 title: Ysselsteyn | Timmermannsweg 56 | Scharreleieren
 ---
+
 LTO-voorman Eric Hubers, eigenaar van deze boerderij, heeft een uitloop voor zijn kippen.

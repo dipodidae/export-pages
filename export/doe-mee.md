@@ -1,10 +1,12 @@
 ---
 title: Doe mee
+description: ''
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2019/11/onderzoek-mitchell.jpg
   alt: Doe mee
 ---
+
 Ongehoord doet sinds 2011 onderzoek naar de dierindustrie. De beelden van varkens, konijnen, vleeskuikens, eenden, kalkoenen, nertsen en legkippen schokten Nederland keer op keer. We kunnen je hulp goed gebruiken om een einde te maken aan dierenleed.
 
 ## Eerlijk delen

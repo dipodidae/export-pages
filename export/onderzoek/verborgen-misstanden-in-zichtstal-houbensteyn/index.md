@@ -17,6 +17,7 @@ image:
     https://rest.ongehoord.info/wp-content/uploads/2022/09/houbesteyn-header-image.png
   alt: Verborgen misstanden in zichtstal Houbensteyn
 ---
+
 Varkens met wonden, abcessen, luchtwegproblemen, dode varkens en vervuilde hokken. Het is te zien in het onderzoek naar Beter Leven stal Houbensteyn in Ysselsteyn, Limburg. Met bijna honderdduizend varkens in 10 vestigingen en 15 miljoen euro subsidie is eigenaar Martin Houben een grote speler. De onderzochte vestiging heeft een zichtruimte, bezoekers kunnen een klein deel van de varkens bekijken. Toen het onderzoeksteam andere delen van de locatie bezocht, troffen ze de misstanden aan. De hokken voldoen niet aan regelgeving en Beter Leven eisen. Met minstens 12.000 vleesvarkens is de locatie een megastal, wat verboden is voor het Beter Leven keurmerk
 
 ## Het onderzoek
@@ -65,7 +66,7 @@ Onderzoek van Ongehoord door de jaren heen toont keer op keer aan dat dierenwelz
 
 ### Giga varkensbedrijf
 
-De Houbensteyn Groep omvat een twaalftal vestigingen in Ysselsteyn, Heide en Grubbenvorst. Het gaat om mesterijen waar vleesvarkens afgemest worden voor de slacht en vermeerderingsbedrijven waar moedervarkens biggen werpen. :annotation{:ids="[17]"}[Ook is er een KI station waar beren sperma produceren voor kunstmatige inseminatie. Daarnaast heeft de groep fabrieken voor mengvoederproductie en mestverwerking.]  
+De Houbensteyn Groep omvat een twaalftal vestigingen in Ysselsteyn, Heide en Grubbenvorst. Het gaat om mesterijen waar vleesvarkens afgemest worden voor de slacht en vermeerderingsbedrijven waar moedervarkens biggen werpen. :annotation{:ids="[17]"}[Ook is er een KI station waar beren sperma produceren voor kunstmatige inseminatie. Daarnaast heeft de groep fabrieken voor mengvoederproductie en mestverwerking.]
 Volgens Kernregistratie Dierverblijven Limburg, een database met gegevens van vergunningen en meldingen van veehouderijen, is de Houbensteyn Groep vergund om in totaal 99.500 moedervarkens, beren, jonge biggen en vleesvarkens te houden. :annotation{:ids="[18]"}[Biggetjes tot 4 – 5 weken oud, die nog bij de moeder drinken, zijn hier niet in meegerekend.]
 
 Het exacte aantal dieren in de stallen van Houbensteyn is onbekend, omdat vergunningsaantallen en werkelijke aantallen afwijkingen kunnen vertonen. De grootste vestiging van de Houbensteyn Groep is de omstreden gigastal aan de Laagheide in Grubbenvorst. In deze etagestal worden meer dan 30.000 varkens gehouden.

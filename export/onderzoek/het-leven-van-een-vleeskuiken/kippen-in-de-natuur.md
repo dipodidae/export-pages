@@ -1,10 +1,12 @@
 ---
 title: Kippen in de natuur
+description: Het leven van een vleeskuiken - Kippen in de natuur
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2013/09/768-baby-chickens-hd-1280x960-1.jpg
   alt: Kippen in de natuur
 ---
+
 ![Rode Kamhoen](http://www.ongehoord.info/wp-content/uploads/2013/09/red-junge-fowl-300x240.jpg)De huidige gedomesticeerde kip is het product van duizenden jaren fokken. Haar natuurlijke soortgenoot is de Rode Kamhoen (Gallus Gallus), die in Azië voorkomt. Ondanks de grote fysiologische verschillen, vertonen vleeskuikens gedrag dat we ook zien bij de Rode Kamhoen.
 
 ## Spelgedrag

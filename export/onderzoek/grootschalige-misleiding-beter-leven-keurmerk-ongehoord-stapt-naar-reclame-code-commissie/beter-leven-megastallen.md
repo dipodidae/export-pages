@@ -1,10 +1,14 @@
 ---
 title: Beter Leven megastallen
+description: >-
+  Grootschalige misleiding Beter Leven keurmerk, Ongehoord stapt naar Reclame
+  Code Commissie - Beter Leven megastallen
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2024/08/Beter-Leven-megastallen.jpg
   alt: Beter Leven megastallen
 ---
+
 De Dierenbescherming heeft megastallen verboden voor het Beter Leven keurmerk. Het publieke standpunt van de Dierenbescherming over megastallen luidt dat:
 
 “er door het hoge aantal dieren vaak minder aandacht aan het individuele dier besteed kan worden, met negatieve gevolgen voor het dierenwelzijn”
@@ -35,7 +39,7 @@ In juni 2024 kwam Albers ook al in het nieuws met een stalbrand in een gedeelte 
 
 ## Topje van ijsberg?
 
-In 2021 filmde Ongehoord ernstig zieke en gewonde varkens in het 2 sterren bedrijf van Annechien ten Have (Beerta), boegbeeld van het Beter Leven keurmerk. Moedervarkens in de inseminatie- en kraamafdeling kregen geen geschikte hokverrijking. Ten Have hield in haar bedrijf 600 zeugen en 4.900 vleesvarkens. :annotation{:ids="[16]"}[Voor het bepalen van de bedrijfsgrootte voor Beter Leven wegen zeugen zwaarder door dan vleesvarkens, de combinatie 600 zeugen en 4900 vleesvarkens is een megastal.]  
+In 2021 filmde Ongehoord ernstig zieke en gewonde varkens in het 2 sterren bedrijf van Annechien ten Have (Beerta), boegbeeld van het Beter Leven keurmerk. Moedervarkens in de inseminatie- en kraamafdeling kregen geen geschikte hokverrijking. Ten Have hield in haar bedrijf 600 zeugen en 4.900 vleesvarkens. :annotation{:ids="[16]"}[Voor het bepalen van de bedrijfsgrootte voor Beter Leven wegen zeugen zwaarder door dan vleesvarkens, de combinatie 600 zeugen en 4900 vleesvarkens is een megastal.]
 Volgens de omgevingsvergunning vormden de zeugenstallen en vleesvarkensstallen van ten Have één gesloten varkensbedrijf, maar in de papieren werkelijkheid van het Beter Leven keurmerk ging het om 2 UBN’s met aparte Beter Leven certificaten. In 2023 brak er brand uit in de zeugenafdeling van ten Have waarbij honderden dieren om het leven kwamen.
 
 In een varkensbedrijf van Martin Houben, een van Nederlands’ grootste varkensfokkers, filmde Ongehoord varkens met welzijnsproblemen en gedragsstoornissen. De strokokers in de hokken waren leeg. Houben houdt op deze locatie aan de Ysselsteynseweg (Ysselsteyn) 12.000 Beter Leven vleesvarkens, wat volgens de Dierenbescherming een megastal is. Op het terrein er net naast heeft Houben nog meer Beter Leven stallen met een ander UBN-nummer. Hier verblijven de Beter Leven moedervarkens die biggetjes werpen voor de eerste UBN. :annotation{:ids="[17]"}[De zeugenstallen en de vleesvarkenstallen hebben elk een eigen Beter Leven certificaat.]

@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Meerlo | Heesweg 9 | Scharrel- en kooi-eieren
 ---
+
 Noud Janssen heeft zowel kooi- als scharrelkippen.

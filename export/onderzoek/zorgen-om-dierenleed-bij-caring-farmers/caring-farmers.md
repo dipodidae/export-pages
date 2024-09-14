@@ -1,5 +1,6 @@
 ---
 title: Caring Farmers
+description: Zorgen om dierenleed bij 'Caring Farmers' - Caring Farmers
 categories:
   - pigs
   - chickens
@@ -8,6 +9,7 @@ image:
     https://rest.ongehoord.info/wp-content/uploads/2021/10/539990834-fa9c7d8ab65fb978e3ac63de4ddc216a7daf7ae9489c52e3651c88738d5fd61f-d_640.jpg
   alt: Caring Farmers
 ---
+
 ## Belangenorganisatie Caring Farmers
 
 Caring Farmers is een belangenorganisatie voor “natuurinclusieve kringloopboeren”. De organisatie is twee jaar geleden opgericht, toen minister Carola Schouten aangaf dat de toekomst van de Nederlandse boer ligt bij kringlooplandbouw. :annotation{:ids="[1]"}[Volgens het recentste jaarverslag (2020) zijn 225 boeren aangesloten bij Caring Farmers, waaronder akkerbouwers, veehouders en gemengde bedrijven.]:annotation{:ids="[2]"}[] :annotation{:ids="[3]"}[]

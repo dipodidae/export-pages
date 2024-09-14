@@ -1,9 +1,11 @@
 ---
 title: Een zieke industrie
+description: Het leven van een konijn - Een zieke industrie
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2013/08/zieke_ind.jpg
   alt: Een zieke industrie
 ---
+
 > Bij konijnen komen hoge scores voor ongerief voor. Deze worden vooral veroorzaakt door houderijcondities… De individuele huisvesting van voedsters en de kooibodems zijn belangrijke bronnen van ongerief bij commerciële konijnen. _\- Rapport Animal Sciences Group, ‘Ongerief bij konijnen, kalkoenen, eenden, schapen en geiten’, 2009_
 
 Het onderzoeksteam kwam uiteenlopende ziektes en gedragsproblemen tegen. Het leven van een vleeskonijn verschilt in alle opzichten van dat van een konijn in de natuur, omdat het aan geen van zijn natuurlijke behoeftes voldoet. Dit zorgt voor veel frustratie en verveling wat kan leiden tot zelfbeschadigend gedrag. Ziektes komen vaak voor, als gevolg van benarde leefomstandigheden. Een gemiddeld bedrijf heeft 900 voedsters en enkele duizenden vleeskonijnen, als er een konijn ziek is kan er nooit voldoende zorg en aandacht gegeven worden aan het individuele dier. Het onderzoeksteam vond op alle bezochte plekken dan ook zieke, verwonde of dode konijnen in de kooien.

@@ -14,6 +14,7 @@ image:
   src: https://rest.ongehoord.info/wp-content/uploads/2023/03/hs.jpg
   alt: Varkens met geweld opgedreven voor transport
 ---
+
 In december 2022 publiceert onderzoeksgroep Ongehoord beelden van varkens die tijdens hun laatste levensdagen worden geslagen, getrapt en met een taser opgejaagd. De onderzoekers plaatsten verborgen camera's bij Beter Leven stallen en een zogenaamde vee-verzamelplaats. Zo filmden zij het in- en uitladen van dieren voor transport . Hoewel veetransporten al jaren onder vuur liggen en al talloze verbeteringen aangekondigd werden door de sector zelf, het landbouwministerie en de NVWA, blijkt uit de beelden dat dierenleed niet te voorkomen is zolang dieren op transport gezet worden.
 
 ## Ernstige mishandeling en zieke dieren op de verzamelplaats

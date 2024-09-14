@@ -1,9 +1,13 @@
 ---
 title: Natuurlijk varkensleven
+description: >-
+  Ernstig zieke varkens bij dierenwelzijnsadviseur voor overheid - Natuurlijk
+  varkensleven
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2021/10/natuurlijk.jpg
   alt: Natuurlijk varkensleven
 ---
+
 :annotation{:ids="[1]"}[Tussen wilde zwijnen en de gedomesticeerde varkens in de vleesindustrie zijn qua gedrag geen fundamentele verschillen, zo blijkt uit diverse studies. Om de behoeftes van de varkens in stallen te begrijpen, kijken we daarom naar wilde zwijnen.]:annotation{:ids="[2]"}[]:annotation{:ids="[3]"}[]
 
 Wilde zwijnen leven in groepen van 2 tot 5 nauw verwante zeugen met hun nakomelingen. Jong volwassen beren verlaten de groep als ze 7-8 maanden oud zijn. De groepen kennen een sterke sociale structuur, waarbij oudere en zwaardere varkens een hogere rangorde hebben. Binnen de groepen is er weinig agressie, maar dieren die niet tot de vaste groep behoren worden zelden getolereerd.

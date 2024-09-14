@@ -12,6 +12,7 @@ image:
   src: https://rest.ongehoord.info/wp-content/uploads/2013/09/IMG_2388.jpg
   alt: Het leven van een legkip
 ---
+
 ## Kip of het ei
 
 De eierindustrie kwam de afgelopen jaren negatief in het nieuws. Het Fipronil schandaal, de vogelgriep, de hoge uitval cijfers, eendagskuikens en de grote welzijnsproblemen bij leghennen.Vaak ontbrak het in de berichtgeving van een bredere context om de dieper liggende oorzaken van deze problemen te kunnen zien of worden zaken eenzijdig belicht.

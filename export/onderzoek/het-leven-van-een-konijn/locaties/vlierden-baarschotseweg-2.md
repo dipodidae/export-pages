@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Vlierden | Baarschotseweg 2
 ---
+
 Op konijnenhouderij Strijbosch zag het onderzoeksteam konijnen met oog infecties, wonden aan hun oren, dieren met hersen- of zenuwontstekingen en dode dieren tussen de levende.

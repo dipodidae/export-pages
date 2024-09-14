@@ -1,9 +1,13 @@
 ---
 title: Onderzoek naar Konzo, koploper Belgische konijnenhouderij
+description: >-
+  Konijnen het haasje - Onderzoek naar Konzo, koploper Belgische
+  konijnenhouderij
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2024/01/konijn-vasthouden.jpg
   alt: Onderzoek naar Konzo, koploper Belgische konijnenhouderij
 ---
+
 Om een representatief beeld te krijgen van de Belgische konijnensector onderzocht Ongehoord de grootste en bekendste konijnenfokkerij van het land.
 
 :annotation{:ids="[5]"}[Konzo, de konijnenfokkerij van Yves De Bie, houdt ruim 20.000 konijnen op 2 locaties.] :annotation{:ids="[6]"}[Het bedrijf ontving de afgelopen 2 jaar ruim 14.000 euro aan Europese en Vlaamse overheidssubsidies.] :annotation{:ids="[7]"}[] Hun grootste en modernste locatie ligt in Hoogstraten. :annotation{:ids="[8]"}[De konijnen worden er gehouden in door De Bie ontworpen parkkooien, waarmee hij een innovatieprijs won van de Boerenbond.] :annotation{:ids="[9]"}[Op het populaire VLAM-foodplatform “Lekker van bij ons” wordt fokkerij Konzo getoond als representatief voorbeeld van de Belgische konijnenhouderij.] :annotation{:ids="[10]"}[De Bie claimt dat ‘dierenwelzijn steeds voorop staat in zijn bedrijf’.] Ongehoord toont aan dat de reclame-uitingen van Konzo in schril contrast staan met de werkelijkheid.
@@ -22,12 +26,8 @@ Een moederkonijn heeft in een fokkerij weinig rust. Om de zes weken wordt ze ge�
 
 Ongeveer 30 dagen later bevalt ze van gemiddeld 10 baby’s. Een tiental dagen na de bevalling wordt ze opnieuw geïnsemineerd. :annotation{:ids="[14]"}[Dit resulteert in 8 zwangerschappen en 80 kinderen in een jaar tijd. Volgens de bedrijfsfilosofie van De Bie ‘moet de stal altijd goed vol zitten om de inkomsten op niveau te houden’.]
 
-
-
 ::external-video{url="https://vimeo.com/905722061/c2da744526?share=copy"}
 ::
-
-
 
 Het onderzoeksteam fotografeerde een kalender waarop het aantal doden in de kraamkooien werd bijgehouden. Wekelijks leggen gemiddeld een zevental konijnen het loodje. Uit vakliteratuur is bekend dat moederkonijnen überhaupt geen lang leven beschoren is in de industrie. Gemiddeld wordt een moeder een jaar gebruikt voor de fok, daarna wordt ze afgevoerd naar het slachthuis. :annotation{:ids="[15]"}[Redenen voor afvoer zijn onvoldoende vruchtbaarheid (mislukte inseminaties of te kleine nesten en veel doodgeboren jongen), blessures, abcessen, uierontstekingen of algemene slechte conditie.]
 
@@ -39,12 +39,8 @@ Ongehoord filmde in de parkkooien van Konzo veel zwakke, zieke en dode konijnen.
 
 ## Mishandeling voor transport
 
-
-
 ::external-video{url="https://vimeo.com/905722061/c2da744526?share=copy"}
 ::
-
-
 
 Na 10 weken zijn de vleeskonijnen op slachtgewicht. Met verborgen camera filmde Ongehoord hoe de dieren uit de kooien verzameld worden voor transport naar de slachterij. Bij het leeghalen van de stal wordt veel geweld gebruikt, zowel door personeel als door zaakvoerder De Bie.
 

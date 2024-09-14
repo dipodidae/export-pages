@@ -12,6 +12,7 @@ image:
   src: https://rest.ongehoord.info/wp-content/uploads/2020/01/nertsen-header-2.jpg
   alt: Het leven van een nerts
 ---
+
 Op 29 augustus 2015 publiceerde Ongehoord schokkende beelden van nertsen in bontfokkerijen. De foto's en video's tonen dieren met grote vleeswonden, aangevroten staarten, ontstekingen en nertsen die stereotiep gedrag vertonen. Het onderzoek bewijst dat bontfokkers geen eerlijk beeld van hun sector hebben gegeven.
 
 Jaren lang konden mensen alleen de showfokkerij in Ederveen zien of bij een zorgvuldig geplande open dag op bezoek komen. Pas toen het onderzoeksteam van Ongehoord onaangekondigd de nertsen opzocht, is duidelijk geworden hoe deze dieren gehouden worden.

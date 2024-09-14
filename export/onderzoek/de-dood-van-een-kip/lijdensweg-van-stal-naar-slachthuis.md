@@ -1,9 +1,11 @@
 ---
 title: Lijdensweg van stal naar slachthuis
+description: De dood van een kip - Lijdensweg van stal naar slachthuis
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2020/02/ziek2.jpg
   alt: Lijdensweg van stal naar slachthuis
 ---
+
 Voordat kippen naar het slachthuis vervoerd worden, krijgen ze niets te eten om hun maag en krop leeg te maken. Dit heeft als doel vervuiling van transportkratten en van karkassen aan de slachtlijn te verminderen. Doorgaans krijgen de dieren een laatste voerbeurt op de ochtend van de dag dat ze naar het slachthuis vervoerd zullen worden (het vervoeren gebeurt ’s avonds). Soms wordt deze voerbeurt niet gegeven en hebben de dieren de avond voorafgaand aan het vangen voor het laatst voer gehad. :annotation{:ids="[16]"}[Afhankelijk van de transportduur en wachttijden voor het lossen in de slachthuizen kan de duur van de periode van voedseldeprivatie oplopen. Vleeskippen worden maximaal 24 uur nuchter gezet voorafgaande aan het moment van slachten. Bij leghennen ligt de gemiddelde duur op 28 uur.]
 
 Het vangen in de stal gebeurt ‘s avonds, wanneer de kippen aan het slapen zijn. :annotation{:ids="[17]"}[Het leegvangen van een kippenstal duurt gemiddeld 2,8 uur en gaat gepaard met veel stress en pijn.] :annotation{:ids="[18]"}[De kippen worden aan een poot opgepakt en ondersteboven weggedragen met 3-4 kippen per hand, om hen vervolgens in een transportkrat te proppen. Hierbij kunnen de kippen letsels oplopen.]

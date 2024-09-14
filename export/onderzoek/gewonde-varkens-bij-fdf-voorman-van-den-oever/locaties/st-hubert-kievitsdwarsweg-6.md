@@ -17,6 +17,7 @@ stableSystem: ''
 companyName: Van den Oever VOF
 title: St. Hubert | Kievitsdwarsweg 6
 ---
+
 ## Varkens met ernstige welzijnsproblemen bij Mark van den Oever
 
 **Ongehoord publiceert beelden van varkens gefilmd bij Van den Oever VOF, het bedrijf van de voorman van Farmers Defence Force (Mark Van den Oever). De opnames zijn gemaakt in april 2020 en tonen ‘Beter Leven’ varkens in kale hokken op roostervloeren waaronder zich een mestkelder bevindt. Meerdere dieren hebben rood ontstoken ogen en necrotiserende wonden aan de oren.**

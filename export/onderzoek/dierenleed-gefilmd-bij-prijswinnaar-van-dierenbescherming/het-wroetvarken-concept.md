@@ -1,10 +1,14 @@
 ---
 title: Het wroetvarken-concept
+description: >-
+  Dierenleed gefilmd bij prijswinnaar van Dierenbescherming - Het
+  wroetvarken-concept
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2021/10/5e11f6d6a25df569319074.jpg
   alt: Het wroetvarken-concept
 ---
+
 Het wroetvarken-concept werd in 2004 bedacht door Jan Broenink, in samenwerking met de Dierenbescherming. In Langeveen bouwde Broenink een eerste “wroetstal” voor 1000 vleesvarkens. Het wroetvarken-vlees werd op de markt gebracht met 1 ster van het Beter Leven keurmerk. Andere varkenshouders sloten zich aan bij het concept. Anno 2021 levert de wroetvarken-keten wekelijks 500 slachtvarkens. Het vlees wordt verkocht bij (keur)slagerijen.
 
 ## Wroetvarken: een ketenconcept

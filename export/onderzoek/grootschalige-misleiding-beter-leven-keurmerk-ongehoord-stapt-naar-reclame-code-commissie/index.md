@@ -20,4 +20,5 @@ image:
     Grootschalige misleiding Beter Leven keurmerk, Ongehoord stapt naar Reclame
     Code Commissie
 ---
+
 Onderzoeksgroep Ongehoord probeert middels een klacht bij de Reclame Code Commissie een einde te maken aan reclames voor Beter Leven producten. Volgens Ongehoord liegt de Dierenbescherming over het dierenwelzijn in boerderijen met het Beter Leven keurmerk. Zo hebben de meeste vleeskuikens geen uitloop en krijgen mega-stallen via een administratieve truc toch het keurmerk. Een truc die overigens door de Dierenbescherming zelf wordt aangereikt. De onderzoeksgroep heeft haar klacht onderbouwd met een uitgebreide studie en beelden van Beter Leven boerderijen.

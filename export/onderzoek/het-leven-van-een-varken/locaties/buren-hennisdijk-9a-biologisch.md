@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Buren |  Hennisdijk 9a  | Biologisch
 ---
+
 Deze beelden zijn van een biologische varkenshouderij. De biggen worden na 6 weken van hun moeder gescheiden. Biologische moedervarkens hebben vaker last van kreupelheid dan reguliere varkens. Op deze video zie je hoe moeizaam het moedervarken loopt.

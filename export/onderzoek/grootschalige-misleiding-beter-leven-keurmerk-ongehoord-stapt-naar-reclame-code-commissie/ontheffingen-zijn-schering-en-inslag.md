@@ -1,17 +1,21 @@
 ---
 title: Ontheffingen zijn schering en inslag
+description: >-
+  Grootschalige misleiding Beter Leven keurmerk, Ongehoord stapt naar Reclame
+  Code Commissie - Ontheffingen zijn schering en inslag
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2024/08/Ontheffingen-zijn-schering-en-inslag.jpg
   alt: Ontheffingen zijn schering en inslag
 ---
+
 ## Miljoenen sterkuikens krijgen geen uitloop
 
 Op de Beter Leven website, maar ook in media-artikels en reclame-uitingen, houdt de Dierenbescherming consumenten voor dat Beter Leven vleeskuikens per definitie gehouden worden in stallen met een overdekte uitloop, waarin de dieren naar buiten kunnen en frisse buitenlucht krijgen. De uitloop wordt voorgesteld als een belangrijke voorwaarde om een Beter Leven ster te krijgen, en als een substantiële verbetering van het dierenwelzijn. :annotation{:ids="[1]"}[Op jaarbasis worden meer dan 80 miljoen vleeskuikens geslacht onder het Beter Leven keurmerk.] Ongehoord ontdekte dat het merendeel van de sterkuikens nooit een uitloop te zien kreeg.
 
 ## 4 op 5 vleeskuikenhouders hebben ontheffing
 
-Uit cijfers die het agrarische vakblad Boerderij opvroeg bij de Dierenbescherming blijkt dat in 2024 slechts 100 van de 482 Nederlandse Beter Leven vleeskuikenbedrijven een overdekte uitloop hebben. De Dierenbescherming geeft vleeskuikenhouders massaal ontheffingen voor de uitloop waardoor zij gedurende meerdere jaren sterkuikens kunnen verkopen die geen uitloop kregen. Bijna 4 op de 5 Beter Leven vleeskuikenhouders hebben momenteel zo’n ontheffing. :annotation{:ids="[2]"}[Eind vorig jaar besliste de Dierenbescherming dat de overgangsregeling voor het bouwen van een uitloop verlengd wordt tot 1 januari 2027.] Consumenten worden hierover niet geïnformeerd maar betalen wel de meerprijs voor Beter Leven kippenvlees dat niet aan de beloftes van het keurmerk voldoet.  
+Uit cijfers die het agrarische vakblad Boerderij opvroeg bij de Dierenbescherming blijkt dat in 2024 slechts 100 van de 482 Nederlandse Beter Leven vleeskuikenbedrijven een overdekte uitloop hebben. De Dierenbescherming geeft vleeskuikenhouders massaal ontheffingen voor de uitloop waardoor zij gedurende meerdere jaren sterkuikens kunnen verkopen die geen uitloop kregen. Bijna 4 op de 5 Beter Leven vleeskuikenhouders hebben momenteel zo’n ontheffing. :annotation{:ids="[2]"}[Eind vorig jaar besliste de Dierenbescherming dat de overgangsregeling voor het bouwen van een uitloop verlengd wordt tot 1 januari 2027.] Consumenten worden hierover niet geïnformeerd maar betalen wel de meerprijs voor Beter Leven kippenvlees dat niet aan de beloftes van het keurmerk voldoet.
 Zowel de vleeskuikenindustrie als de Dierenbescherming doen hier hun voordeel mee. De industrie ziet haar inkomsten stijgen en de Beter Leven stichting ontvangt meer financiële bijdragen voor het gebruik van haar keurmerk. :annotation{:ids="[3]"}[Hoe meer dieren geslacht worden onder het keurmerk, hoe meer geld er naar de stichting vloeit.]
 
 De cijfers in het agrarische vakblad Boerderij dateren van 2 maart 2024 en spreken voor zich. Toch blijft de Dierenbescherming consumenten voorliegen over de uitloop voor sterkuikens. Naar aanleiding van kritiek op het Beter Leven keurmerk in het AD publiceerde de Dierenbescherming op 14 maart 2024 een reactie op de Beter Leven promo-website. Uitgerekend de overdekte uitloop voor vleeskuikens wordt hierin als voorbeeld gesteld van een belangrijke verbetering voor het kippenwelzijn: :annotation{:ids="[4]"}[“Het volledig vervangen van de plofkip in de supermarkt door kippen die sterker zijn, langzamer groeien, meer ruimte hebben én een overdekte uitloop is wel het mooiste voorbeeld dat we hebben”.]

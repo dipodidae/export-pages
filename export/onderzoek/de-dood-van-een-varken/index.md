@@ -16,6 +16,7 @@ image:
     https://rest.ongehoord.info/wp-content/uploads/2020/01/jumbotron-publication-january-1.jpg
   alt: De dood van een varken
 ---
+
 Ongehoord publiceerde in januari 2020 een uitgebreid onderzoek naar slachthuizen. Een undercover werknemer filmde in augustus 2019 de dagelijkse activiteiten in varkensslachthuis Westfort te Ijsselstein. Wekelijks worden hier 50.000 varkens gedood voor vleesproductie, met een tempo van 650 dieren per uur. Na Vion en Van Rooi Meat is Westfort de derde grootste varkensslachter van Nederland. Het bedrijf is erkend door de NVWA (Nederlandse voedsel- en warenautoriteit) en gecertificeerd om varkensvlees te produceren met de keurmerken EKO (biologisch), KDV (Keten Duurzaam Varkensvlees) en Beter Leven.
 
 Het undercover onderzoek toont hoe varkens onder stressvolle omstandigheden aankomen in het slachthuis. Dagelijks worden dieren aangevoerd die ernstige gezondheidsproblemen vertonen zoals abcessen, navelbreuken, staartbijtwonden, pootgebreken, hittestress en uitputting. De varkens worden routinematig geslagen, en hardhandig aan oren en staarten beetgepakt.

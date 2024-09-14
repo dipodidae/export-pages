@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Hulten | Broekdijk 30a | Beter Leven (1 ster)
 ---
+
 Elly de Kort is voorzitster van de Kring Vleeskuikenhouders van de LTO.

@@ -1,9 +1,13 @@
 ---
 title: Varkens in de megastal van ten Have-Mellema
+description: >-
+  Ernstig zieke varkens bij dierenwelzijnsadviseur voor overheid - Varkens in de
+  megastal van ten Have-Mellema
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2021/10/megastal.jpg
   alt: Varkens in de megastal van ten Have-Mellema
 ---
+
 Een team van Ongehoord deed uitgebreid onderzoek naar de leefomstandigheden van varkens in het bedrijf van Annechien ten Have-Mellema. Over de periode van een jaar (augustus 2020 - september 2021) werden de stallen meermaals bezocht. Bij elk bezoek werden gestreste, gewonde en dode dieren gefilmd.
 
 ## Megastal

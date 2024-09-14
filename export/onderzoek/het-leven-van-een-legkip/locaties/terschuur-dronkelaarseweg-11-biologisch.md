@@ -17,4 +17,5 @@ stableSystem: bio
 companyName: ''
 title: Terschuur | Dronkelaarseweg 11 | Biologisch
 ---
+
 Bij biologische legkippen ligt de uitval, het aantal dieren dat voortijdig sterft, vaak veel hoger dan bij scharrelkippen. Ook zijn er meer problemen met verenpikken omdat de snavels van biokippen niet gekapt mogen worden. Het pikken is daardoor schadelijker.

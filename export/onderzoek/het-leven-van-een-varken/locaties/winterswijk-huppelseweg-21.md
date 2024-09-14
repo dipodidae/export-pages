@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Winterswijk  | Huppelseweg 21
 ---
+
 Deze beelden zijn van biologische varkenshouderij ’t Helder.

@@ -1,9 +1,11 @@
 ---
 title: Natuurlijk kippenleven
+description: De dood van een kip - Natuurlijk kippenleven
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2020/02/vrijekip.jpg
   alt: Natuurlijk kippenleven
 ---
+
 De voorouder van de huidige legkippen en vleeskuikens is de Rode Kamhoen, ook gekend onder de naam Bankivahoen. Rode kamhoenen komen tegenwoordig nog voor in Zuid-Oost Azië, in gebieden met lage bossages, donkere dichtbegroeide jungle of bamboebossen, waar de dieren voldoende beschutting vinden voor predatoren. Omdat de Rode Kamhoen zo schuw is, zijn er weinig studies gedaan naar het gedrag van deze soort onder natuurlijke omstandigheden.
 
 Wel is er heel wat onderzoek gedaan naar kippen in semi-natuurlijke omstandigheden, zoals het onderzoek van Collias (1996) die kamhoenen bestudeerde in de dierentuin van San Diego. Ander bekend onderzoek is van Dawkins (1989), die het gedrag bestuurde van gedurende vele generaties verwilderde kippen. :annotation{:ids="[4]"}[Als gedomesticeerde kippen worden losgelaten in het wild, blijken ze gedrag te vertonen dat sterk vergelijkbaar is met dat van de Rode Kamhoen.]

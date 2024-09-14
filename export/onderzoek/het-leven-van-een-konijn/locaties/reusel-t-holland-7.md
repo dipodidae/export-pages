@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Reusel | 't Holland 7
 ---
+
 Eigenaar Sjef Lavrijsen is de huidige voorzitter van de LTO vakgroep konijnenhouderij. Hij heeft 2000 moederkonijnen. Op zijn locatie aan 't Holland 7 zag het onderzoeksteam zieke en stervende dieren. Ook zijn er konijnen met vergroeiingen en tumoren. Verschillende dieren hebben een hersen- of zenuwontsteking. Een moederdier is verlamd.

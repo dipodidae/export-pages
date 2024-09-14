@@ -1,10 +1,12 @@
 ---
 title: Sterfte
+description: Het leven van een varken - Sterfte
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2020/01/5785605627_82098d07e3_o.jpg
   alt: Sterfte
 ---
+
 Bij sterfte onder varkens wordt er vaak een onderscheid gemaakt tussen sterfte bij biggen en sterfte bij zeugen aangezien dat de meest kwetsbare groepen zijn.
 
 ### _Biggensterfte_

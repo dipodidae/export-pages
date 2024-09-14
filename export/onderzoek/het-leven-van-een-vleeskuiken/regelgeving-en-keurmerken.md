@@ -1,10 +1,12 @@
 ---
 title: Regelgeving en keurmerken
+description: Het leven van een vleeskuiken - Regelgeving en keurmerken
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2020/01/oirschot_8480Web-1024x683-1.jpg
   alt: Regelgeving en keurmerken
 ---
+
 ## Beter Leven 1 sterren
 
 Ongehoord publiceerde de beelden van twee bedrijven die een ster van de Dierenbescherming krijgen voor hun vleeskuikens. Zowel in het Brabantse Hulten als het Groningse Loppersum bleek de waardering van de Dierenbescherming ongegrond. Hoewel de kuikens volgens de Dierenbescherming langzamer ![Beter leven logo](http://www.ongehoord.info/wp-content/uploads/2013/09/Beter-leven-logo-300x153.png)groeien, trof het onderzoeksteam van Ongehoord dezelfde welzijnsproblemen aan als bij reguliere kuikens.Er waren dieren met verlammingen, vergroeide poten, ademhalingsproblemen en andere aandoeningen die worden toegeschreven aan groeisnelheid. Het langzamer groeien is dan ook relatief, de kuikens groeien binnen 8 weken richting 2,3 kilo. Op beide plekken lagen kadavers, in staat van ontbinding, in de stal. De uitloop bij het Dierenbeschermingsvlees is overdekt, ommuurd en de grond is verhard en zonder beplanting. De naam uitloop is dus misleidend, het gaat om een extra stuk stal. De sterrenstal in Hulten is van Elly de Kort, de voornaamste woordvoerder van de vleeskuikenhouders.

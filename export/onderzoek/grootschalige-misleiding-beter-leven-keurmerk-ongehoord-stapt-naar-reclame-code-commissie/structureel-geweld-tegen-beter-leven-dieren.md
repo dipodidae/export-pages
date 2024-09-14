@@ -1,17 +1,21 @@
 ---
 title: Structureel geweld tegen Beter Leven dieren
+description: >-
+  Grootschalige misleiding Beter Leven keurmerk, Ongehoord stapt naar Reclame
+  Code Commissie - Structureel geweld tegen Beter Leven dieren
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2024/08/Structureel-geweld-tegen-Beter-Leven-dieren.png
   alt: Structureel geweld tegen Beter Leven dieren
 ---
+
 De Dierenbescherming claimt dat het welzijn van dieren onder Beter Leven keurmerk in alle schakels van de productieketen gewaarborgd is. Niets blijkt minder waar.
 
 ## Mishandeling bij transport is onvermijdelijk
 
 Ongehoord filmde in augustus 2024 hoe varkens bij de megastal van Albers ingeladen worden voor transport naar het slachthuis. De dieren krijgen systematisch stroomschokken en worden geslagen met een klapper.
 
-Stroomstootwapens en andere vormen van mishandeling zoals slaan of schoppen zijn verboden, zowel door de wet als voor het Beter Leven keurmerk. Maar Ongehoord heeft meermaals vastgesteld dat het transport van (Beter Leven) dieren naar de slachterijen niet lukt zonder geweld.  
+Stroomstootwapens en andere vormen van mishandeling zoals slaan of schoppen zijn verboden, zowel door de wet als voor het Beter Leven keurmerk. Maar Ongehoord heeft meermaals vastgesteld dat het transport van (Beter Leven) dieren naar de slachterijen niet lukt zonder geweld.
 In december 2022 publiceerde Ongehoord al beelden van Beter Leven varkens die tijdens hun laatste levensdagen stroomstoten krijgen of worden geslagen en getrapt. Bij de megastal van Martin Houben werden varkens met stroomstoten op transport gezet. :annotation{:ids="[18]"}[Bij de megastal van Annechien ten Have werden varkens geslagen met de hand en met plastic klappers, maar ook de zware opdrijfborden werden gebruikt om op de varkens in te slaan.]
 
 Varkens worden bij het in- en uitladen geconfronteerd met stressvolle situaties: onbekende soortgenoten en mensen, een vreemde omgeving en lawaai, gladde ondergronden van laadbruggen en vrachtwagens. Van nature nemen varkens de tijd om nieuwe omgevingen voorzichtig te verkennen.In de industrie is daar echter geen tijd voor en moeten de dieren zo snel mogelijk verplaatst worden. Geweld bij het in- en uitladen is daardoor onvermijdelijk.

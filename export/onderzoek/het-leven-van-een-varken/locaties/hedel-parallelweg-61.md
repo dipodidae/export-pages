@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Hedel  | Parallelweg 61
 ---
+
 In de overvolle en vervallen stallen van de Hedelse Varkens Combinatie (H.V.C.) zijn varkens te zien die stangbijten. De verblijven zijn erg vies.

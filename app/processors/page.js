@@ -27,8 +27,16 @@ export default class extends PostProcessor {
     return postsInOrder
   }
 
+  hasChildren() {
+    return this.posts.some(post => post.post_parent === this.post.ID)
+  }
+
+  getParent() {
+    return this.posts.find(post => post.ID === this.post.post_parent)
+  }
+
   addIndexIfNecessary(postsInOrder) {
-    const hasChildren = this.posts.some(post => post.post_parent === this.post.ID)
+    const hasChildren = this.hasChildren()
 
     if (hasChildren || (postsInOrder.length === 2 && !hasChildren))
       postsInOrder.push({ post_title: 'index' })
@@ -110,6 +118,19 @@ export default class extends PostProcessor {
       .forEach(processor => processor.save())
   }
 
+  getDescription() {
+    if (this.post.metaData['ongehoord-intro'])
+      return he.decode(this.post.metaData['ongehoord-intro']).replace('\r\n', ' ')
+
+    if (this.post.post_parent && this.post.post_parent !== 0) {
+      const parent = this.posts.find(post => post.ID === this.post.post_parent)
+
+      return `${parent.post_title} - ${this.post.post_title}`
+    }
+
+    return ''
+  }
+
   /**
    * Transforms the provided metadata into a structured format.
    *
@@ -118,10 +139,8 @@ export default class extends PostProcessor {
   parseMetaData() {
     const metaData = {
       title: this.post.post_title,
+      description: this.getDescription(),
     }
-
-    if (this.post.metaData['ongehoord-intro'])
-      metaData.description = he.decode(this.post.metaData['ongehoord-intro']).replace('\r\n', ' ')
 
     if (this.post.metaData['ongehoord-article-categories'])
       metaData.categories = this.getCategories(this.post.metaData['ongehoord-article-categories'])

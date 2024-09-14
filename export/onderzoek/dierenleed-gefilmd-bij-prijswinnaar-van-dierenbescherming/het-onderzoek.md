@@ -1,19 +1,17 @@
 ---
 title: Het onderzoek
+description: Dierenleed gefilmd bij prijswinnaar van Dierenbescherming - Het onderzoek
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2021/10/wroetvarken.png
   alt: Het onderzoek
 ---
+
 In juni en september 2021 deed Ongehoord onderzoek naar de wroetvarken-keten. Een onderzoeksteam bezocht de stallen van oprichter Broenink en van subfokker Tijink om er de leefomstandigheden van de varkens te filmen. Zowel in de subfokkerij als in de wroetstal werd ernstig dierenleed vastgesteld.
 
 ## Varkens met ernstige bijtwonden in de wroetstal van oprichter Broenink
 
-
-
 ::external-video{url="https://vimeo.com/641289720"}
 ::
-
-
 
 Het onderzoeksteam bezocht de wroetstal van Jan Broenink in Langeveen, die vergund is om 1000 vleesvarkens te houden. In het bedrijf waren opgroeiende vleesvarkens van verschillende leeftijden aanwezig. Ongehoorde filmde bij Broenink varkens met ernstige wonden door staart- en oorbijterij, schrammen en wonden op het lichaam, navelbreuken, en ernstige kreupelheid.
 
@@ -23,12 +21,8 @@ In de voerbakken van de varkens wemelde het van de vliegen. :annotation{:ids="[2
 
 ## Subfokker Tijink: wonden, kreupelheid, huidziekten
 
-
-
 ::external-video{url="https://vimeo.com/643194715"}
 ::
-
-
 
 In de fokkerij van Tijink waren varkens van diverse leeftijden aanwezig. De dieren zaten in hokken met betonvloeren en roosters, zonder strooisel. Ook in dit bedrijf wemelde het van de vliegen.
 

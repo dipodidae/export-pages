@@ -1,9 +1,11 @@
 ---
 title: Leven in de industrie
+description: Het leven van een varken - Leven in de industrie
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2013/08/aalten-meerdink.jpg
   alt: Leven in de industrie
 ---
+
 ## Intensieve varkenshouderij
 
 In Nederland leven er op dit moment zo’n 12 miljoen varkens, wat echter een vertekend beeld geeft van de werkelijke aantallen, aangezien er bijvoorbeeld ruim 30 miljoen biggen per jaar worden geboren. Van deze biggen sterven er ongeveer 6 miljoen vroegtijdig en omdat er meer biggen “geproduceerd” worden dan er kunnen worden vetgemest tot vleesvarken, wordt eveneens een aanzienlijk deel (6-7 miljoen) op jonge leeftijd geëxporteerd naar het buitenland. Daarnaast worden er ook nog eens 3 miljoen vleesvarkens levend geëxporteerd naar het buitenland. Hiermee staat Nederland in de top van de varkens exporterende landen in Europa. De varkensstapel bestaat uit ongeveer 1 miljoen fokvarkens, 2 miljoen biggetjes die nog bij de moeder zijn, 5 miljoen jonge varkens tot 50 kg en zo'n 4 miljoen vleesvarkens.

@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Borkel en Schaft | Hoeverdijk 80
 ---
+
 Eigenaar Piet Rijkers deed mee aan het ComfortClass project, dat het dierenwelzijn zou vergroten. Hij heeft bovendien een Milieukeur, dat ook meer dierenwelzijn zou garanderen. Rijkers is bekend van het televisieprogramma Boer zoekt vrouw.

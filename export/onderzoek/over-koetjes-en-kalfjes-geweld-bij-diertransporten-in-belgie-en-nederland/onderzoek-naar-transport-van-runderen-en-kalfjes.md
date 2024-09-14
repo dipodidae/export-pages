@@ -1,9 +1,13 @@
 ---
 title: Onderzoek naar transport van runderen en kalfjes
+description: >-
+  Over koetjes en kalfjes: geweld bij diertransporten in België en Nederland -
+  Onderzoek naar transport van runderen en kalfjes
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2023/04/censored-feeat.jpg
   alt: Onderzoek naar transport van runderen en kalfjes
 ---
+
 ## Onderzoek met verborgen camera in 4 verzamelplaatsen
 
 Het onderzoeksteam van Ongehoord filmde het laden en lossen van kalfjes en koeien. Ze plaatsten verborgen camera's in exportverzamelplaatsen. In verzamelplaatsen worden dieren afkomstig van verschillende veehouderijen samen gebracht om hen vervolgens verder te transporteren naar fokkerijen, mesterijen of slachterijen. Vanwege de levendige dierenhandel tussen Nederland en België, werd in beide landen onderzoek gedaan.
@@ -20,24 +24,20 @@ De kalfsvleesindustrie is georganiseerd in integraties: grote kalfsvleesproducen
 
 ## Locatie 1: Verzamelplaats Vanlommel, Tielt-Winge
 
-
-
 ::external-video{url="https://vimeo.com/816351997" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/2-tieltwingeallemaalslaan-1.jpg"}
 ::
 
-
-
 :annotation{:ids="[7]"}[In de Binkomstraat 90 te Tielt-Winge (provincie Vlaams-Brabant) ligt het verzamelcentrum van Vanlommel, de grootste kalfsvleesproducent van België. In de verzamelplaats worden kalfjes van 14 dagen oud verzameld om in grote groepen op transport te gaan naar Vanlommels contractmesters in België en Nederland.] In een tijdsspanne van vier dagen werden met verborgen camera de volgende misstanden gefilmd:
 
-*   kalfjes worden systematisch opgedreven met tasers
-*   kalfjes worden geschopt
-*   kalfjes worden voortgeduwd met kniestoten
-*   een kalfje wordt met kniestoten hard tegen de zijwand aangeduwd
-*   kalfjes krijgen stokslagen op gevoelige lichaamsdelen zoals het hoofd; stokken worden tegen de flanken/ribben van de kalfjes gestoten
-*   een kalf dat moeizaam loopt wordt aan de staart opgetild en voortgetrokken
-*   een groep kalfjes staat klem in een hoek. Werknemers schoppen tegen de kalfjes en geven stroomschokken
-*   kalfjes vallen tijdens het opdrijven
-*   een werknemer maakt kalfjes bang met een stok in een grote plastic zak
+- kalfjes worden systematisch opgedreven met tasers
+- kalfjes worden geschopt
+- kalfjes worden voortgeduwd met kniestoten
+- een kalfje wordt met kniestoten hard tegen de zijwand aangeduwd
+- kalfjes krijgen stokslagen op gevoelige lichaamsdelen zoals het hoofd; stokken worden tegen de flanken/ribben van de kalfjes gestoten
+- een kalf dat moeizaam loopt wordt aan de staart opgetild en voortgetrokken
+- een groep kalfjes staat klem in een hoek. Werknemers schoppen tegen de kalfjes en geven stroomschokken
+- kalfjes vallen tijdens het opdrijven
+- een werknemer maakt kalfjes bang met een stok in een grote plastic zak
 
 ### Over het bedrijf
 
@@ -55,25 +55,21 @@ In 2011 kreeg Vanlommel subsidies voor investering in “energiebesparing of mil
 
 ## Locatie 2: de Kempense Exportstal, Merksplas
 
-
-
 ::external-video{url="https://vimeo.com/816361683" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/3-Merksplaskindduwtkalf-1.jpg"}
 ::
-
-
 
 In de Bosstraat 11 te Merksplas (provincie Antwerpen) bevindt zich de Kempense Exportstal van de familie van der Walle, Nederlandse kalvermesters en veehandelaars.
 
 In een tijdsspanne van anderhalve week werden met verborgen camera de volgende misstanden gefilmd in de Kempense Exportstal:
 
-*   kalfjes worden aan de staart omhoog getrokken en uit wagens gegooid
-*   kalfjes worden met stokken geslagen op gevoelige lichaamsdelen
-*   kalfjes worden voortgeduwd met kniestoten
-*   kalfjes worden geschopt
-*   veelvuldig worden kalfjes aan de staart omhoog getrokken bij het opdrijven doorheen de verzamelplaats
-*   kalfjes worden aan de oren omhoog getrokken
-*   kalfjes worden weggeslagen bij de drinkvoorziening
-*   een kind mag meehelpen met kalfjes slaan en duwen
+- kalfjes worden aan de staart omhoog getrokken en uit wagens gegooid
+- kalfjes worden met stokken geslagen op gevoelige lichaamsdelen
+- kalfjes worden voortgeduwd met kniestoten
+- kalfjes worden geschopt
+- veelvuldig worden kalfjes aan de staart omhoog getrokken bij het opdrijven doorheen de verzamelplaats
+- kalfjes worden aan de oren omhoog getrokken
+- kalfjes worden weggeslagen bij de drinkvoorziening
+- een kind mag meehelpen met kalfjes slaan en duwen
 
 ### Over het bedrijf
 
@@ -103,24 +99,20 @@ Ongehoord plaatste verborgen camera’s in 2 Nederlandse runderverzamelplaatsen.
 
 ## Locatie 3: Dane en Zoon, Oudemolen
 
-
-
 ::external-video{url="https://vimeo.com/816351134" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/4-Oudemolentrekkenaankoe-1.jpg"}
 ::
 
-
-
 Aan de Stadsedijk 44 te Oudemolen (provincie Noord-Brabant) ligt het verzamelcentrum van veehandel Dane en Zoon. Ze verzamelen en verhandelen runderen voor de binnen- en buitenlandse markten. In een tijdsspanne van 2 weken filmden we de volgende misstanden:
 
-*   aanvoer van ernstig zieke koeien die niet meer overeind kunnen
-*   duwen en trekken aan oren en snuit bij ernstig zieke koeien
-*   verslepen van een ernstig ziek dier aan staart en poten, met meerdere werknemers tegelijk
-*   herhaaldelijk toedienen van stroomschokken aan ernstig zieke koeien, ook op gevoelige lichaamsdelen zoals flanken en anus
-*   sleuren aan zieke dieren met touwen
-*   koe met riemen vastbinden aan een shovel om haar te verslepen
-*   een doodzieke koe die heel de nacht aan haar lot werd overgelaten wordt de volgend ochtend opgetakeld met een heupklem aan een shovel
-*   een koe wordt buiten op het terrein afgemaakt en weggeduwd met een vorklift
-*   opdrijven van een groep jonge runderen met een hooivork, onder luid geschreeuw. Slaan en prikken met de hooivork in het lichaam van de dieren
+- aanvoer van ernstig zieke koeien die niet meer overeind kunnen
+- duwen en trekken aan oren en snuit bij ernstig zieke koeien
+- verslepen van een ernstig ziek dier aan staart en poten, met meerdere werknemers tegelijk
+- herhaaldelijk toedienen van stroomschokken aan ernstig zieke koeien, ook op gevoelige lichaamsdelen zoals flanken en anus
+- sleuren aan zieke dieren met touwen
+- koe met riemen vastbinden aan een shovel om haar te verslepen
+- een doodzieke koe die heel de nacht aan haar lot werd overgelaten wordt de volgend ochtend opgetakeld met een heupklem aan een shovel
+- een koe wordt buiten op het terrein afgemaakt en weggeduwd met een vorklift
+- opdrijven van een groep jonge runderen met een hooivork, onder luid geschreeuw. Slaan en prikken met de hooivork in het lichaam van de dieren
 
 ### Over het bedrijf
 
@@ -134,22 +126,18 @@ Ook de familie Dane ontvangt Europese subsidies. Volgens de subsidie-database va
 
 ## Locatie 4: Veebedrijf Kuiper V.O.F., Hoogblokland
 
-
-
 ::external-video{url="https://vimeo.com/816356235" thumbnail="https://rest.ongehoord.info/wp-content/uploads/2023/04/5-hopoblokland1.jpg"}
 ::
-
-
 
 Aan de Beemdweg 5 B in Hoogblokland ligt de verzamelplaats van veetransporteur Teus Kuiper.
 
 In de tijdsspanne van een week werden in het bedrijf de volgende misstanden gefilmd:
 
-*   aanvoer van een extreem mager en ziek dier
-*   aanvoer van kreupele koeien
-*   koeien worden met een stok hard geslagen. Ook op gevoelige lichaamsdelen zoals het hoofd. De stok wordt in flanken/ribben gestoten
-*   koeien worden geschopt
-*   de dieren glijden uit en vallen op de glibberige natte betonvloer
+- aanvoer van een extreem mager en ziek dier
+- aanvoer van kreupele koeien
+- koeien worden met een stok hard geslagen. Ook op gevoelige lichaamsdelen zoals het hoofd. De stok wordt in flanken/ribben gestoten
+- koeien worden geschopt
+- de dieren glijden uit en vallen op de glibberige natte betonvloer
 
 ### Over het bedrijf
 

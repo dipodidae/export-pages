@@ -1,9 +1,13 @@
 ---
 title: Bevindingen uit het onderzoek
+description: >-
+  Over koetjes en kalfjes: geweld bij diertransporten in België en Nederland -
+  Bevindingen uit het onderzoek
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2023/04/87099175_bananaap.jpg
   alt: Bevindingen uit het onderzoek
 ---
+
 ## Geweld bij laden en lossen is onvermijdelijk
 
 Waarom gebruiken veetransporteurs zoveel geweld bij het opdrijven? Om dat te begrijpen, kijken we naar de natuurlijke behoeften en instincten van de dieren. :annotation{:ids="[49]"}[Uit het literatuuronderzoek (Natuurlijk gedrag van runderen) weten we dat runderen kudde- en prooidieren zijn. Op transport gaan is voor hen een onnatuurlijke en stressvolle situatie die ze instinctief willen mijden.]:annotation{:ids="[50]"}[]

@@ -1,16 +1,14 @@
 ---
 title: Stress en mishandeling
+description: De dood van een varken - Stress en mishandeling
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2020/01/stress-en-mishandeling-1.jpg
   alt: Stress en mishandeling
 ---
 
-
 ::external-video{url="https://vimeo.com/manage/videos/738230400"}
 ::
-
-
 
 Uit vakliteratuur blijkt dat het transport van dieren naar de slachthuizen gepaard gaat met veel stress. In vrachtwagens die tot 205 varkens kunnen bevatten worden dag en nacht dieren aangevoerd vanuit varkensmesterijen. :annotation{:ids="[8]"}[Voorafgaande aan het transport moeten de varkens 12 tot 18 uur vasten om mestproductie en salmonellabesmettingen op de vrachtwagens en in het slachthuis te beperken. ]
 

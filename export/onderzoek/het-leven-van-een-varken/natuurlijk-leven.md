@@ -1,10 +1,12 @@
 ---
 title: Natuurlijk leven
+description: Het leven van een varken - Natuurlijk leven
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2013/08/1098502_569808789724122_1743305427_n.jpg
   alt: Natuurlijk leven
 ---
+
 # Intelligent en gevoelig
 
 Varkens zijn zeer intelligente, nieuwsgierige en sociale dieren. :annotation{:ids="[1]"}[Zo kunnen varkens objecten met verschillende kleuren en vormen van elkaar onderscheiden, hebben ze een besef van tijd, kunnen ze individuen (zowel varkens als mensen) onderscheiden, hebben ze een lange termijn geheugen en zijn ze in sommige spelletjes beter dan honden en primaten.] De Hogeschool voor Kunsten Utrecht en Wageningen UR hebben bijvoorbeeld een [computergame](http://web.archive.org/web/20190926052013/http://www.playingwithpigs.nl/) ontwikkelt waarmee mensen met varkens kunnen gamen.

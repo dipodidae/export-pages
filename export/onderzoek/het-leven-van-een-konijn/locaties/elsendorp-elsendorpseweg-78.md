@@ -17,4 +17,5 @@ stableSystem: ''
 companyName: ''
 title: Elsendorp | Elsendorpseweg 78
 ---
+
 De familie Bekkers-Hubers houdt 1400 konijnen in een snelbouw stal. Hoewel de moederdieren de plastic matjes hebben, zijn er ernstige voetproblemen vastgelegd. Ook zijn er dieren met wonden in deze stal. Er is een babykonijn te zien die niet op het matje kan lopen.

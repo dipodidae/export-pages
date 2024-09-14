@@ -1,10 +1,12 @@
 ---
 title: Gestoord gedrag, uitval en ziektes
+description: Het leven van een legkip - Gestoord gedrag, uitval en ziektes
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2019/12/Ysselsteyn_7082Web-1024x683-1.jpg
   alt: Gestoord gedrag, uitval en ziektes
 ---
+
 ## Verenpikken
 
 Kippen in de moderne veehouderij vertonen vaak abnormaal gedrag als gevolg van stress en waarschijnlijk door het opgroeien zonder moeder.
@@ -71,7 +73,7 @@ _E.coli_ groeit het liefst bij een temperatuur van 18-44°C en het stalklimaat i
 
 Vogelgriep is waarschijnlijk voor de meeste mensen de bekendste kippenziekte omdat dit regelmatig in het nieuws is vanwege de vele ruimingen. Vogelgriep kent twee varianten, de milde variant (laagpathogeen) en de gevaarlijke variant (hoogpathogeen). Deze laatste wordt ook wel vogelpest genoemd. Dieren die de milde variant hebben, vertonen nauwelijks ziekteverschijnselen. Toch worden ook deze leghennen geruimd, omdat de milde variant over kan gaan naar de gevaarlijke vorm. In zeldzame gevallen kunnen bepaalde typen vogelgriep ook mensen besmetten.
 
-In 2003 werd maar liefst een derde van de hele pluimveel stapel vernietigd in verband met vogelgriep. Dertig miljoen dieren werden met stroomstoten of door vergassing omgebracht. Het betrof destijds de H7N7 variant, waar ook 89 mensen mee werden besmet. Een van hen overleefde dat niet.  
+In 2003 werd maar liefst een derde van de hele pluimveel stapel vernietigd in verband met vogelgriep. Dertig miljoen dieren werden met stroomstoten of door vergassing omgebracht. Het betrof destijds de H7N7 variant, waar ook 89 mensen mee werden besmet. Een van hen overleefde dat niet.
 In 2016 zijn meer dan 1 miljoen leghennen geruimd vanwege een H5N8 variant om verspreiding naar andere bedrijven tegen te gaan. In dat jaar vond de langste ophokplicht (kippen verplicht binnen houden) ooit in Nederland plaats, namelijk 5 maanden. Er was geen besmetting naar mensen toe bij deze variant.
 
 In december 2017 is er opnieuw vogelgriep vastgesteld op een vleeseemden bedrijf en worden 16.000 eenden “geruimd”. Omdat het vermoedelijk een hoogpathogene H5 variant betreft, is er een landelijke ophokplicht uitegeroepen.

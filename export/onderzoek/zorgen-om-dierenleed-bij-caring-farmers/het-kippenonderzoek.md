@@ -1,9 +1,11 @@
 ---
 title: Het kippenonderzoek
+description: Zorgen om dierenleed bij 'Caring Farmers' - Het kippenonderzoek
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2021/10/Schuur-kip-2.jpg
   alt: Het kippenonderzoek
 ---
+
 Ongehoord heeft een jaar lang onderzoek verricht naar de leefomstandigheden van dieren in stallen van Caring Farmers. Eerder werden reeds beelden naar buiten gebracht van zieke en gewonde varkens. Ditmaal toont Ongehoord kreupele en dode kippen in Caring Farmers’ pluimveebedrijven.
 
 Het leven van productiekippen, zowel in de eier- als in de vleesindustrie, verschilt sterk van een natuurlijk kippenleven. Leghennen en vleeskuikens worden kunstmatig uitgebroed in broederijen, ze groeien op zonder hun moeder. Dit geldt voor de gehele kippenindustrie (regulier, Beter Leven en biologisch). In natuurlijke omstandigheden brengen kuikens hun eerste levensdagen door aan de zijde van hun moeder, waar ze warmte en bescherming vinden. De daaropvolgende weken leert de moederhen de kuikens essentiële gedragingen zoals voedsel zoeken, stofbaden en een veilige slaapplek uitkiezen op een tak van een boom. Pas na acht weken beginnen de kuikens zelfstandig op zoek te gaan naar eten, maar ze blijven nog in de buurt van hun moeder. :annotation{:ids="[14]"}[Op de leeftijd van 18 weken sluiten ze aan bij de rest van de kippengroep.]

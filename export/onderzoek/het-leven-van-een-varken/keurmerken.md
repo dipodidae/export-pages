@@ -1,10 +1,12 @@
 ---
 title: Keurmerken
+description: Het leven van een varken - Keurmerken
 image:
   src: >-
     https://rest.ongehoord.info/wp-content/uploads/2013/08/5786397053_be8b656897_b.jpg
   alt: Keurmerken
 ---
+
 # Keurmerken
 
 De varkensindustrie heeft vele keurmerken en projecten die claimen garant te staan voor meer dierenwelzijn. Veel beweringen zijn echter lastig te controleren aangezien er geen eenduidigheid over termen heerst en wettelijke kaders vaak ontbreken. Zo is bijvoorbeeld de invulling van de term “scharrel” niet wettelijk vastgesteld. De regels voor het scharrelvlees keurmerk zijn opgesteld door PROduCERT echter de voorwaarden worden niet vermeld op hun website en moeten worden opgevraagd via e-mail. De belangrijkste officiële keurmerken met betrekking tot dierenwelzijn zijn weergegeven in tabel 1 met een samenvatting van de bijbehorende eigenschappen. In figuur 2 is het aandeel van de verschillende beter leven keurmerken weergegeven.

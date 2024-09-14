@@ -1,9 +1,11 @@
 ---
 title: Het natuurlijke leven van een konijn
+description: Het leven van een konijn - Het natuurlijke leven van een konijn
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2013/08/konijn.jpg
   alt: Het natuurlijke leven van een konijn
 ---
+
 Een van de meest voorkomende zoogdieren in Nederland is het konijn. Het diertje is niet alleen leuk om te zien maar ook essentieel voor het Nederlandse landschap. Zonder konijnen zouden de duinen en de Veluwe er heel anders uitzien. Het konijn is een strikte vegetariër, de kleinst voorkomende grazer in Nederland. Ze leven van een grote variatie aan plantaardig voedsel o.a. grassen, kruiden, knollen, boom bast en akkergewassen. Hiermee houden ze de begroeiing kort waardoor er heel veel andere dieren en planten, waaronder beschermde soorten, kunnen bestaan. Verlaten konijnenholen zijn in trek bij verschillende vogels voor het leggen van hun eieren.
 
 > Konijnen, herkauwers? Wist je dat konijnen er de gewoonte op nahouden om hun eigen keutels op te eten? Dit omdat het verteren van grassen zwaar voor de maag is. Een koe heeft er dan ook 4 magen voor. Konijnen pakken dit dus slim aan door gewoon alles twee keer te eten...
