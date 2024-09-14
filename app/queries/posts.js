@@ -11,10 +11,7 @@ import getMetadata from './meta-data.js'
 function query(postType) {
   return connection.execute(`
     SELECT
-      p.ID,
-      p.post_title,
-      p.post_content,
-      p.post_parent,
+      p.*,
       t.guid AS thumbnail_url
     FROM wp_posts p
     LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id AND pm.meta_key = '_thumbnail_id'
@@ -28,20 +25,11 @@ function query(postType) {
  * Transforms a post object by adding metadata and ensuring the thumbnail URL is present.
  *
  * @param {object} post - The post object to transform.
- * @param {number} post.ID - The ID of the post.
- * @param {string} post.post_title - The title of the post.
- * @param {string} post.post_content - The content of the post.
- * @param {number} post.post_parent - The parent ID of the post.
- * @param {string} [post.thumbnail_url] - The URL of the post's thumbnail.
  * @returns {Promise<object>} A promise that resolves to the transformed post object.
  */
 async function transformPost(post) {
   return {
-    ID: post.ID,
-    post_title: post.post_title,
-    post_content: post.post_content,
-    post_parent: post.post_parent,
-    thumbnail_url: post.thumbnail_url || null,
+    ...post,
     metaData: await getMetadata(post.ID),
   }
 }

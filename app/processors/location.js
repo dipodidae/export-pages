@@ -44,8 +44,12 @@ export default class LocationProcessor extends PostProcessor {
    * @param {number|string} id - The ID of the page to retrieve.
    * @returns {object|undefined} The page object if found, otherwise undefined.
    */
+  getPageBySlug(slug) {
+    return this.pages.find(page => page.post_name === slug)
+  }
+
   getPageById(id) {
-    return this.pages.find(page => Number.parseInt(page.ID) === Number.parseInt(id))
+    return this.pages.find(page => page.id === id)
   }
 
   /**
@@ -54,15 +58,17 @@ export default class LocationProcessor extends PostProcessor {
    * @returns {string} The constructed file name for the current post.
    */
   getFileName() {
-    const page = this.getPageById(this.post.metaData.location_article)
+    const page = this.getPageBySlug(this.post.metaData['ongehoord-location-article'])
+      ?? this.getPageById(this.post.metaData.location_article)
+
+    if (!page)
+      throw new Error('Page related to location not found.')
 
     const pageProcessor = new PageProcessor(this.pages, page)
 
     const pagesInOrder = pageProcessor.getPostHierarchy()
 
     const path = pagesInOrder.map(pageInOrder => pageProcessor.getSlug(pageInOrder.post_title)).join('/')
-
-    console.log('path for location', path)
 
     return `${path}/${paths.locations}/${this.getSlug(this.post.post_title)}.md`
   }
