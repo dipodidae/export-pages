@@ -63,7 +63,7 @@ function transformAnnotations(content) {
  * @returns {string} The transformed content with donate tags.
  */
 function transformDonate(content) {
-  const annotationPattern = /\\\[donate\\\]\s?(.*?)\\\[\/annotation\\\]/gs
+  const annotationPattern = /\\\[donate\\\]\s?(.*?)\\\[\/donate\\\]/gs
   return content.replace(annotationPattern, ':donate[$1]')
 }
 

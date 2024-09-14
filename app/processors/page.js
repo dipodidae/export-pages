@@ -28,9 +28,9 @@ export default class extends PostProcessor {
   }
 
   addIndexIfNecessary(postsInOrder) {
-    const hasChildren = postId => this.posts.some(post => post.post_parent === postId)
+    const hasChildren = this.posts.some(post => post.post_parent === this.post.ID)
 
-    if (hasChildren(this.post.ID))
+    if (hasChildren || postsInOrder.length === 2 && !hasChildren)
       postsInOrder.push({ post_title: 'index' })
 
     return postsInOrder
@@ -134,7 +134,7 @@ export default class extends PostProcessor {
 
     if (this.post.thumbnail_url) {
       metaData.image = {
-        src: this.post.thumbnail_url,
+        src: (this.post.thumbnail_url ?? '').trim(),
         alt: this.post.post_title,
       }
     }
