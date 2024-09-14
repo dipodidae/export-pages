@@ -15,4 +15,5 @@ owner: Fam. Bakker
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Voorthuizen | Lange Zuiderweg 116
 ---

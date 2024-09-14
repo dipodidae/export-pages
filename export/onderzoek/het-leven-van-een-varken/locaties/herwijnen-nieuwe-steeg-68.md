@@ -15,4 +15,5 @@ owner: van Zandwijk
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Herwijnen  | Nieuwe Steeg 68
 ---

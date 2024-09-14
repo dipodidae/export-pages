@@ -30,7 +30,7 @@ export default class extends PostProcessor {
   addIndexIfNecessary(postsInOrder) {
     const hasChildren = this.posts.some(post => post.post_parent === this.post.ID)
 
-    if (hasChildren || postsInOrder.length === 2 && !hasChildren)
+    if (hasChildren || (postsInOrder.length === 2 && !hasChildren))
       postsInOrder.push({ post_title: 'index' })
 
     return postsInOrder

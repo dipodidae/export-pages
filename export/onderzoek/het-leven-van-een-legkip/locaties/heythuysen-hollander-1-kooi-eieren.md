@@ -15,4 +15,5 @@ owner: Floris Nouwen
 organization: ''
 stableSystem: Scharrel- en kooieieren
 companyName: Golden Egg BV
+title: Heythuysen | Hollander 1 | Kooi-eieren
 ---

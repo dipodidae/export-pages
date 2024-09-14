@@ -15,4 +15,5 @@ owner: Teeuwen
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Koningslust | Zandstraat 15 Teeuwen
 ---

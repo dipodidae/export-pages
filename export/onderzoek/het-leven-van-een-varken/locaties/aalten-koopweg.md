@@ -15,5 +15,6 @@ owner: Onbekend
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Aalten  | Koopweg
 ---
 Bij deze kleine boerderij werd een stervend varken aangetroffen.

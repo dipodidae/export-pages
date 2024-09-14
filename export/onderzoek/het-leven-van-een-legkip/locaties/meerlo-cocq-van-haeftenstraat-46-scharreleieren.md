@@ -15,6 +15,7 @@ owner: Marco en Chantal Peelen
 organization: ''
 stableSystem: scharrel
 companyName: Heidehof BV
+title: Meerlo | Cocq van Haeftenstraat 46 | Scharreleieren
 ---
 Dit is de boerderij van Marco en Chantal Peelen, op hun website www.heidehofpluimvee.nl staat geen woord over dierenwelzijn.
 

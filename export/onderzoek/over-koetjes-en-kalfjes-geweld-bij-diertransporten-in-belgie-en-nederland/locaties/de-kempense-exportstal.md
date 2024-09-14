@@ -16,4 +16,5 @@ owner: de Kempense Exportstal
 organization: ''
 stableSystem: ''
 companyName: 'De Kempense Exportstal '
+title: De Kempense Exportstal
 ---

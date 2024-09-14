@@ -15,4 +15,5 @@ owner: Jaco Geurts
 organization: CDA
 stableSystem: ''
 companyName: ''
+title: Voorthuizen | Lange Zuiderweg 118
 ---

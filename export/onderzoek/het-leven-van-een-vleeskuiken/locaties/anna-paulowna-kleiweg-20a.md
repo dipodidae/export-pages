@@ -15,5 +15,6 @@ owner: Martien Vroone
 organization: NOP/LTO
 stableSystem: ''
 companyName: Pluimvee- en Bloemteeltbedrijf Vroone
+title: Anna Paulowna | Kleiweg 20a
 ---
 Eigenaar Martien Vroone van deze boerderij is bestuurslid van de NOP/LTO kring vleeskuikenhouders.

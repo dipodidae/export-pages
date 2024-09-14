@@ -22,7 +22,12 @@ Een moederkonijn heeft in een fokkerij weinig rust. Om de zes weken wordt ze ge�
 
 Ongeveer 30 dagen later bevalt ze van gemiddeld 10 baby’s. Een tiental dagen na de bevalling wordt ze opnieuw geïnsemineerd. :annotation{:ids="[14]"}[Dit resulteert in 8 zwangerschappen en 80 kinderen in een jaar tijd. Volgens de bedrijfsfilosofie van De Bie ‘moet de stal altijd goed vol zitten om de inkomsten op niveau te houden’.]
 
-\[video url="https://vimeo.com/905722061/c2da744526?share=copy"\]
+
+
+::external-video{url="https://vimeo.com/905722061/c2da744526?share=copy"}
+::
+
+
 
 Het onderzoeksteam fotografeerde een kalender waarop het aantal doden in de kraamkooien werd bijgehouden. Wekelijks leggen gemiddeld een zevental konijnen het loodje. Uit vakliteratuur is bekend dat moederkonijnen überhaupt geen lang leven beschoren is in de industrie. Gemiddeld wordt een moeder een jaar gebruikt voor de fok, daarna wordt ze afgevoerd naar het slachthuis. :annotation{:ids="[15]"}[Redenen voor afvoer zijn onvoldoende vruchtbaarheid (mislukte inseminaties of te kleine nesten en veel doodgeboren jongen), blessures, abcessen, uierontstekingen of algemene slechte conditie.]
 
@@ -34,7 +39,12 @@ Ongehoord filmde in de parkkooien van Konzo veel zwakke, zieke en dode konijnen.
 
 ## Mishandeling voor transport
 
-\[video url="https://vimeo.com/905722061/c2da744526?share=copy"\]
+
+
+::external-video{url="https://vimeo.com/905722061/c2da744526?share=copy"}
+::
+
+
 
 Na 10 weken zijn de vleeskonijnen op slachtgewicht. Met verborgen camera filmde Ongehoord hoe de dieren uit de kooien verzameld worden voor transport naar de slachterij. Bij het leeghalen van de stal wordt veel geweld gebruikt, zowel door personeel als door zaakvoerder De Bie.
 

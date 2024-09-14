@@ -15,4 +15,5 @@ owner: Willekens
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Koningsbosch  | Heugenderweg 8
 ---

@@ -15,5 +15,6 @@ owner: Paul Grefte
 organization: NVP
 stableSystem: ''
 companyName: ''
+title: Hengevelde | Kerkstraat 1
 ---
 Eigenaar van deze boederij is Paul Grefte van de Nederlandse Vakbond Pluimveehouders. In zijn overvolle stal trof het onderzoeksteam vele dode en stervende dieren aan.

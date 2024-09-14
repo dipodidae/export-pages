@@ -16,4 +16,5 @@ owner: Westfort
 organization: ''
 stableSystem: ''
 companyName: Westfort
+title: Varkensslachthuis Westfort | IJsselstijn
 ---

@@ -15,6 +15,7 @@ owner: Leeijen
 organization: ''
 stableSystem: ''
 companyName: Nertsenfokkerij Leeijen
+title: Beringe | Groeze 9
 ---
 De gebroeders Pierre en Rien Leeijen stonden in 2013 nog in de Quote 500 met een vermogen van 90 miljoen. Ze zijn hoogstwaarschijnlijk de grootste nertsenfokkers in de wereld met minstens 15 boerderijen. Alleen in Polen al bezitten de broers zeker 8 farms, in Litouwen 2 en in Nederland minimaal 1. Daarnaast hebben ze met hun bedrijf Lion Farms ook bedrijven in de VS. Zij kopen in bijvoorbeeld Polen kleine nertsenfokkerijen op en breiden die uit. Ze maken gebruik van stromannen om regelgeving te omzeilen. Ook hebben ze verscheidene BV’s zoals Farm Equiptment International, Rolpi en Pol Rol. Ze hebben handelsverbanden met verschillende personen waaronder Monica Bozena Crstowka.
 

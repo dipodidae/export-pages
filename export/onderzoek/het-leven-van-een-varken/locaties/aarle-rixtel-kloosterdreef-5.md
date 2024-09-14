@@ -15,6 +15,7 @@ owner: Rooijakkers
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Aarle-Rixtel | Kloosterdreef 5
 ---
 # John en Maarten Rooijakkers
 

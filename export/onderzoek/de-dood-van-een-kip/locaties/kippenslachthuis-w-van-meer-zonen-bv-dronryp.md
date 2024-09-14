@@ -16,4 +16,5 @@ owner: ''
 organization: ''
 stableSystem: ''
 companyName: Kippenslachthuis W. van Meer & Zonen B.V.
+title: Kippenslachthuis W. van Meer & Zonen B.V. | Dronryp
 ---

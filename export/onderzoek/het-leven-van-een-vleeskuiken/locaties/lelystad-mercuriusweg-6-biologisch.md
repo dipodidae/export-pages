@@ -15,5 +15,6 @@ owner: Fam. Kok
 organization: ''
 stableSystem: ''
 companyName: polderhoenderhof
+title: Lelystad | Mercuriusweg 6 | Biologisch
 ---
 Op het grootschalige biologische bedrijf van de familie Kok trof het onderzoeksteam dode en zieke dieren aan. Opvallend veel dieren kunnen nauwelijk lopen en hebben dus weinig aan de vrije uitloop. De jongste kuikens lijken bij bosjes dood neer te vallen.

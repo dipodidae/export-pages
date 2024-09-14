@@ -15,5 +15,6 @@ owner: Johan  Briene
 organization: LTO
 stableSystem: ''
 companyName: J. Briene
+title: Wierden | Schapendijk 4
 ---
 Eigenaar Johan Briene was tot dit jaar voorzitter van de LTO vakgroep konijnenhouderij. De stal ligt bezaaid met dode dieren, zowel in de kooien als op de grond. Onder de kooien, tussen de uitwerpselen, liggen dode konijnen die aan het ontbinden zijn. Hier lopen ook nog levende konijnen rond.

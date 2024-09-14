@@ -15,5 +15,6 @@ owner: Henk de Lange
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Arrien | Arrierflierweg 8
 ---
 Op deze reguliere boerderij kunnen de varkens weinig van hun omgeving zien, doordat de hokken uit dichte schotten bestaan. De stallen zijn smerig en sommige varkens vertonen stereotiep gedrag.

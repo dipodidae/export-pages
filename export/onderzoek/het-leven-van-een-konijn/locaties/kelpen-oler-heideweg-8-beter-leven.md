@@ -15,5 +15,6 @@ owner: Kohlen
 organization: BL1
 stableSystem: ''
 companyName: ''
+title: Kelpen-Oler  |  Heideweg 8 | Beter Leven
 ---
 Eigenaar Frans Köhlen kreeg van de Dierenbescherming een ster van het Beter Leven Kenmerk. Hij kreeg de ster voor de manier waarop hij de moederkonijnen houdt. De kinderen zitten opeen gepropt in reguliere hokken, sommige met plastic matjes, veel ook zonder. Er liggen dode, aangevroten konijnen tussen de levende, konijnen hebben ooraandoeningen en eentje mist een heel oor.

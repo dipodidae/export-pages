@@ -15,5 +15,6 @@ owner: Harry Beekmans
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Oirschot | Spoordonkseweg 144a | Beter Leven 1 ster
 ---
 ZLTO'er Harry Beekmans krijgt van de Dierenbescherming 1 ster voor zijn eieren.

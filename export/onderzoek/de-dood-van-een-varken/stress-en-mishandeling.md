@@ -7,7 +7,7 @@ image:
 ---
 
 
-::external-video{url="https://vimeo.com/manage/videos/738230400 "}
+::external-video{url="https://vimeo.com/manage/videos/738230400"}
 ::
 
 

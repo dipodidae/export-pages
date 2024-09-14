@@ -151,7 +151,7 @@ Voor meer informatie, lees [ons onderzoek over slachthuizen](https://www.ongehoo
 
 
 
-::external-video{url="https://vimeo.com/867653969 "}
+::external-video{url="https://vimeo.com/867653969"}
 ::
 
 

@@ -15,5 +15,6 @@ owner: Fam. Vink
 organization: ''
 stableSystem: ''
 companyName: westerkloeke
+title: Dreumel | Papesteeg 11 | Biologisch
 ---
 In deze biologische stal van de familie Vink is de stal overvol.

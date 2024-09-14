@@ -15,4 +15,5 @@ owner: Yves De Bie
 organization: ''
 stableSystem: ''
 companyName: Konzo
+title: Konzo, Hoogstraten
 ---

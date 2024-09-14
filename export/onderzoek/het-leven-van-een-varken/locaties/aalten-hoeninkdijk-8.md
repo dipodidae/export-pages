@@ -15,5 +15,6 @@ owner: Henk Meerdink
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Aalten |  Hoeninkdijk 8
 ---
 In de mega-stal van Henk Meerdink te Aalten worden 17.250 varkens vetgemest. Op zijn bedrijf werden dieren gezien met tumoren, blinde dieren, open wonden, krassen en kannibalisme. Meerdink is CDA raadslid.

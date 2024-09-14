@@ -16,4 +16,5 @@ owner: Firma Dane en Zoon Agrarisch
 organization: ''
 stableSystem: ''
 companyName: Firma Dane en Zoon Agrarisch
+title: Firma Dane en Zoon Agrarisch
 ---

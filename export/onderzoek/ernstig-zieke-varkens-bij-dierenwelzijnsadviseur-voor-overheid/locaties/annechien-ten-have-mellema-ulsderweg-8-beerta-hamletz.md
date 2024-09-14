@@ -15,4 +15,5 @@ owner: Annechien Ten Have – Mellema
 organization: LTO, RDA
 stableSystem: Hamletz
 companyName: Dartelstal BV
+title: Annechien ten Have-Mellema | Ulsderweg 8, Beerta | Hamletz
 ---

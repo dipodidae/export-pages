@@ -15,4 +15,5 @@ owner: Verhees
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Someren | Heikantstraat 11
 ---

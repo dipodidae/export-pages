@@ -16,4 +16,5 @@ owner: Veehandel Vanlommel
 organization: ''
 stableSystem: ''
 companyName: Veehandel Vanlommel
+title: Veehandel Vanlommel
 ---

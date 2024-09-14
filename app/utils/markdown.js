@@ -74,9 +74,9 @@ function transformDonate(content) {
  * @returns {string} The transformed content with video tags.
  */
 function transformVideos(content) {
-  const pattern = /\\\[content-video url="(.*?)"\\\]/g
+  const pattern = /\\\[(content-video|video) (url|id)="(.*?)"\\\]/g
 
-  return content.replace(pattern, (_match, p1) => `\n\n::external-video{url="${p1}"}\n::\n\n`)
+  return content.replace(pattern, (_match, _p1, _p2, p3) => `\n\n::external-video{url="${(p3 ?? '').trim()}"}\n::\n\n`)
 }
 
 /**

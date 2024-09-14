@@ -15,6 +15,7 @@ owner: Mark van den Oever
 organization: FDF
 stableSystem: ''
 companyName: Van den Oever VOF
+title: St. Hubert | Kievitsdwarsweg 6
 ---
 ## Varkens met ernstige welzijnsproblemen bij Mark van den Oever
 

@@ -15,5 +15,6 @@ owner: Bas Bronk
 organization: NOP
 stableSystem: ''
 companyName: Bronk Pluimveehouder
+title: Hedel | Sint Annaweg 54
 ---
 1.  Bas Bronk is bestuurslid van de NOP-kring vleeskuikenhouders en heeft een reguliere stal.

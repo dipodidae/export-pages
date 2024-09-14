@@ -15,4 +15,5 @@ owner: de Vries
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Hummelo  |  Zelhemseweg 15
 ---

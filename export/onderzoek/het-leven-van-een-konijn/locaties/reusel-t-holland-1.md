@@ -15,5 +15,6 @@ owner: Sjef Lavrijsen
 organization: LTO
 stableSystem: ''
 companyName: ''
+title: Reusel  | 't Holland 1
 ---
 Eigenaar Sjef Lavrijsen is de huidige voorzitter van de LTO vakgroep konijnenhouderij. Hij heeft 2000 moederkonijnen. Op zijn locatie aan 't Holland 1 liggen dode konijnen tussen de levende. De levende konijnen grazen van de huid van de doden, alsof de haren gras zijn. Ook proberen ze holen te graven in de huid van dode soortgenoten en knabbelen ze aan de oren.

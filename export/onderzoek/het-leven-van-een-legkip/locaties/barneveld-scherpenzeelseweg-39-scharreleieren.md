@@ -15,4 +15,5 @@ owner: G ter Maaten
 organization: ''
 stableSystem: Scharrel-eieren
 companyName: ''
+title: Barneveld | Scherpenzeelseweg 39 | Scharreleieren
 ---

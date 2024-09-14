@@ -16,4 +16,5 @@ owner: Tijink
 organization: ''
 stableSystem: Wroetvarken
 companyName: Maatschap E. En C. Tijiink
+title: Tijink, Almelo | Achterhoeksweg 4a | Wroet subfokker
 ---

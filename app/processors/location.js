@@ -39,15 +39,21 @@ export default class LocationProcessor extends PostProcessor {
   }
 
   /**
-   * Retrieves a page by its ID.
+   * Retrieves a page object by its slug.
    *
-   * @param {number|string} id - The ID of the page to retrieve.
+   * @param {string} slug - The slug of the page to retrieve.
    * @returns {object|undefined} The page object if found, otherwise undefined.
    */
   getPageBySlug(slug) {
     return this.pages.find(page => page.post_name === slug)
   }
 
+  /**
+   * Retrieves a page object by its ID.
+   *
+   * @param {number} id - The ID of the page to retrieve.
+   * @returns {object|undefined} The page object if found, otherwise undefined.
+   */
   getPageById(id) {
     return this.pages.find(page => page.id === id)
   }
@@ -149,7 +155,7 @@ export default class LocationProcessor extends PostProcessor {
       organization: this.post.metaData['ongehoord-location-organization'],
       stableSystem: this.post.metaData['ongehoord-location-stable-system'],
       companyName: this.post.metaData['ongehoord-location-company-name'],
-      title: this.post.title,
+      title: this.post.post_title,
     }
   }
 }

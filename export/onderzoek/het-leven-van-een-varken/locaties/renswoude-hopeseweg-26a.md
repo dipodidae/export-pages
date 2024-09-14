@@ -15,5 +15,6 @@ owner: Fam, Geytenbeek
 organization: milieukeur
 stableSystem: ''
 companyName: ''
+title: Renswoude  |  Hopeseweg 26a
 ---
 Gert en Teuni Geytenbeek hebben het Milieukeur, dat onder andere meer dierenwelzijn zou garanderen.

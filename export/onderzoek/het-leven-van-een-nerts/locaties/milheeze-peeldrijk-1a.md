@@ -15,5 +15,6 @@ owner: Nic van Ansem
 organization: ''
 stableSystem: ''
 companyName: De peeldijk
+title: Milheeze | Peeldrijk 1a
 ---
 Nicolaas Johannes Maria (Nic) van Ansem is eigenaar van de nertsenhouderij aan de Peeldijk 1a in Milheeze. Zijn bedrijf lijkt geen onderdeel te zijn van de multinational van Ansem, maar hij kent de broers van Ansem wel en is waarschijnlijk familie.

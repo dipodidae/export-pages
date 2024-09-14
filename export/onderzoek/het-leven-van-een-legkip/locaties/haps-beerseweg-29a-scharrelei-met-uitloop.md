@@ -15,5 +15,6 @@ owner: Hugo Bens
 organization: ZLTO
 stableSystem: scharrel
 companyName: ''
+title: Haps | Beerseweg 29a |  Scharrelei met uitloop
 ---
 ZLTO'er Hugo Bens, eigenaar van deze boerderij zegt op zijn website www.hetscharrelei.nl dat zijn dieren uitloop hebben.

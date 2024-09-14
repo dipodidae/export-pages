@@ -15,4 +15,5 @@ owner: C. van Roij
 organization: ''
 stableSystem: ''
 companyName: Vee- en Varkenshandel C. van Roij
+title: Vee- en Varkenshandel C. van Roij
 ---

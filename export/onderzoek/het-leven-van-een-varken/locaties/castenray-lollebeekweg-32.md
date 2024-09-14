@@ -15,5 +15,6 @@ owner: Tacken
 organization: ''
 stableSystem: ''
 companyName: ''
+title: Castenray | Lollebeekweg 32
 ---
 Bij deze reguliere boerderij heeft het onderzoeksteam varkens gezien die al geruime tijd dood zijn. Ook is er beeldmateriaal van voetgebreken en wonden.

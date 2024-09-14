@@ -16,4 +16,5 @@ owner: Kuiper Veehandel
 organization: ''
 stableSystem: ''
 companyName: T. Kuiper Transport
+title: Kuiper, Hoogblokland, Nederland
 ---
