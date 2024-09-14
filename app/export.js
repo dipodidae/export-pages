@@ -11,7 +11,7 @@ import getPages from './queries/pages.js'
  * @returns {Promise<void>} A promise that resolves when all items have been processed and saved.
  */
 async function exportItems(items, processorFactory) {
-  const processors = items.map(item => processorFactory(item, items))
+  const processors = items.map(item => processorFactory(items, item))
 
   const savePromises = processors.map(processor => processor.save())
 
@@ -25,7 +25,13 @@ async function exportItems(items, processorFactory) {
  * @returns {Promise<void>} A promise that resolves when all pages have been processed and saved.
  */
 async function exportPages(pages) {
-  return exportItems(pages, (item, items) => new PageProcessor(item, items))
+  return exportItems(pages, (items, item) => {
+    const processor = new PageProcessor(items, item)
+
+    processor.saveAnnotations()
+
+    return processor
+  })
 }
 
 /**
@@ -37,9 +43,11 @@ async function exportPages(pages) {
 async function exportLocations(pages) {
   const locations = await getLocations()
 
-  return exportItems(locations, (item, items) => {
-    const processor = new LocationProcessor(item, items)
+  return exportItems(locations, (items, item) => {
+    const processor = new LocationProcessor(items, item)
+
     processor.setPages(pages)
+
     return processor
   })
 }

@@ -9,12 +9,24 @@ export default class extends PostProcessor {
    * @returns {Array<object>} An array of posts in order from the current post to the root parent.
    */
   getPostOrder() {
-    const postsInOrder = [this.post]
+    const postsInOrder = this.getPostsInOrder(this.post, this.posts)
+    return this.addIndexIfNecessary(postsInOrder, this.post, this.posts)
+  }
 
-    let postId = this.post.post_parent
+  /**
+   * Retrieves the posts in order from the current post to the root parent.
+   *
+   * @param {object} post - The current post object.
+   * @param {Array<object>} posts - The array of all posts.
+   * @returns {Array<object>} An array of posts in order from the current post to the root parent.
+   */
+  getPostsInOrder(post, posts) {
+    const postsInOrder = [post]
+
+    let postId = post.post_parent
 
     while (postId) {
-      const parentPost = this.posts.find(p => p.ID === postId)
+      const parentPost = posts.find(p => p.ID === postId)
 
       if (!parentPost) {
         break
@@ -25,9 +37,21 @@ export default class extends PostProcessor {
       postId = parentPost.post_parent
     }
 
-    const hasChildren = postId => this.posts.some(p => p.post_parent === postId)
+    return postsInOrder
+  }
 
-    if (hasChildren(this.post.ID)) {
+  /**
+   * Adds an index post if the current post has children.
+   *
+   * @param {Array<object>} postsInOrder - The array of posts in order.
+   * @param {object} post - The current post object.
+   * @param {Array<object>} posts - The array of all posts.
+   * @returns {Array<object>} The updated array of posts with the index post added if necessary.
+   */
+  addIndexIfNecessary(postsInOrder, post, posts) {
+    const hasChildren = postId => posts.some(p => p.post_parent === postId)
+
+    if (hasChildren(post.ID)) {
       postsInOrder.push({
         post_title: 'index',
       })
@@ -101,11 +125,9 @@ export default class extends PostProcessor {
 
   /**
    * Saves annotations based on the provided metadata.
-   *
-   * @param {object} [metaData] - The metadata containing attachments.
    */
-  saveAnnotations(metaData = {}) {
-    this.getAnnotations(metaData.attachments)
+  saveAnnotations() {
+    this.getAnnotations(this.post.metaData.attachments)
       .map(({ fields }) => {
         const processor = new AnnotationProcessor(this.posts, {
           id: fields.id,
@@ -122,25 +144,24 @@ export default class extends PostProcessor {
   /**
    * Transforms the provided metadata into a structured format.
    *
-   * @param {object} metaData - The metadata to transform.
    * @returns {object} The transformed metadata.
    */
-  transformMetaData(metaData) {
-    const transformedMetaData = {}
+  parseMetaData() {
+    const transformedMetaData = {
+      title: this.post.post_title,
+    }
 
-    this.saveAnnotations(metaData)
+    if (this.post.metaData['ongehoord-intro'])
+      transformedMetaData.intro = this.post.metaData['ongehoord-intro']
 
-    if (metaData['ongehoord-intro'])
-      transformedMetaData.intro = metaData['ongehoord-intro']
+    if (this.post.metaData['ongehoord-article-categories'])
+      transformedMetaData.categories = this.getCategories(this.post.metaData['ongehoord-article-categories'])
 
-    if (metaData['ongehoord-article-categories'])
-      transformedMetaData.categories = this.getCategories(metaData['ongehoord-article-categories'])
+    if (this.post.metaData['ongehoord-video'])
+      transformedMetaData.video = this.post.metaData['ongehoord-video']
 
-    if (metaData['ongehoord-video'])
-      transformedMetaData.video = metaData['ongehoord-video']
-
-    if (metaData['ongehoord-year'])
-      transformedMetaData.year = metaData['ongehoord-year']
+    if (this.post.metaData['ongehoord-year'])
+      transformedMetaData.year = this.post.metaData['ongehoord-year']
 
     if (this.post.thumbnail_url)
       transformedMetaData.image = this.post.thumbnail

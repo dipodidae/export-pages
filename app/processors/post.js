@@ -1,4 +1,3 @@
-import getMetaData from '../queries/meta-data.js'
 import { convert } from '../utils/markdown.js'
 import BaseProcessor from './base.js'
 
@@ -7,15 +6,6 @@ import BaseProcessor from './base.js'
  * Extends the BaseProcessor class to handle post-specific processing.
  */
 export default class PostProcessor extends BaseProcessor {
-  /**
-   * Retrieves metadata for the current post.
-   *
-   * @returns {Promise<object>} A promise that resolves to the metadata object.
-   */
-  async getMetaData() {
-    this.metaData = await getMetaData(this.post.ID)
-  }
-
   /**
    * Constructs the filename for the current post based on its title.
    *
@@ -26,28 +16,13 @@ export default class PostProcessor extends BaseProcessor {
   }
 
   /**
-   * Transforms the provided metadata by removing keys that start with an underscore.
+   * Parses and returns the metadata for the current post.
    *
-   * @returns {object} The transformed metadata.
-   */
-  transformMetaData() {
-    return Object.entries(this.metaData).reduce((acc, [key, value]) => {
-      if (!key.startsWith('_')) {
-        acc[key] = value
-      }
-      return acc
-    }, {})
-  }
-
-  /**
-   * Parses and transforms the metadata for the current post.
-   *
-   * @returns {Promise<object>} A promise that resolves to the parsed metadata object.
+   * @returns {object} An object containing the parsed metadata.
    */
   parseMetaData() {
     return {
       title: this.post.post_title,
-      ...this.transformMetaData(),
     }
   }
 

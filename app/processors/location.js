@@ -1,5 +1,5 @@
 import phpSerialize from 'php-serialize'
-import { paths } from '../constants/index.js'
+import PageProcessor from './page.js'
 import PostProcessor from './post.js'
 
 /**
@@ -29,16 +29,6 @@ export default class LocationProcessor extends PostProcessor {
   }
 
   /**
-   * Constructs the filename for the current post based on its title.
-   *
-   * @returns {string} The constructed filename for the current post.
-   */
-  getFileName() {
-    const page = this.getPageById(this.metaData.location_article)
-    return `${paths.locations}/${this.getSlug(this.post.post_title)}.md`
-  }
-
-  /**
    * Sets the pages array.
    *
    * @param {Array<object>} pages - An array of page objects.
@@ -58,27 +48,41 @@ export default class LocationProcessor extends PostProcessor {
   }
 
   /**
+   * Generates the file name for the current post based on its title and the order of related pages.
+   *
+   * @returns {string} The constructed file name for the current post.
+   */
+  getFileName() {
+    const pageProcessor = new PageProcessor(this.pages, this.getPageById(this.post.metaData['ongehoord-location-article']))
+
+    const pagesInOrder = pageProcessor.getPostsInOrder()
+
+    const path = pagesInOrder.map(pageInOrder => pageProcessor.getSlug(pageInOrder.post_title)).join('/')
+
+    return `${path}/${path.locations}/${this.getSlug(this.post.post_title)}.md`
+  }
+
+  /**
    * Transforms the provided metadata into a structured format.
    *
-   * @param {object} metaData - The metadata to transform.
    * @returns {object} The transformed metadata.
    */
-  transformMetaData(metaData) {
+  parseMetaData() {
     return {
       position: {
-        lat: Number.parseFloat(metaData['ongehoord-location-location-lat']),
-        lng: Number.parseFloat(metaData['ongehoord-location-location-lon']),
+        lat: Number.parseFloat(this.post.metaData['ongehoord-location-location-lat']),
+        lng: Number.parseFloat(this.post.metaData['ongehoord-location-location-lon']),
       },
-      address: metaData['ongehoord-location-address'],
-      article: metaData['ongehoord-location-article'],
-      video: metaData['ongehoord-video'],
-      categories: this.getCategories(metaData['ongehoord-article-categories']),
-      qualityBrand: metaData['ongehoord-location-quality-brand'],
-      owner: metaData['ongehoord-location-company-owner'],
-      organization: metaData['ongehoord-location-organization'],
-      stableSystem: metaData['ongehoord-location-stable-system'],
-      companyName: metaData['ongehoord-location-company-name'],
-      title: metaData.title,
+      address: this.post.metaData['ongehoord-location-address'],
+      article: this.post.metaData['ongehoord-location-article'],
+      video: this.post.metaData['ongehoord-video'],
+      categories: this.getCategories(this.post.metaData['ongehoord-article-categories']),
+      qualityBrand: this.post.metaData['ongehoord-location-quality-brand'],
+      owner: this.post.metaData['ongehoord-location-company-owner'],
+      organization: this.post.metaData['ongehoord-location-organization'],
+      stableSystem: this.post.metaData['ongehoord-location-stable-system'],
+      companyName: this.post.metaData['ongehoord-location-company-name'],
+      title: this.post.title,
     }
   }
 }

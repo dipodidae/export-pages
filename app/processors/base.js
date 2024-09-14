@@ -20,12 +20,6 @@ export default class BaseProcessor {
   post = {}
 
   /**
-   * Metadata for the current post.
-   * @type {object}
-   */
-  metaData = {}
-
-  /**
    * Creates an instance of BaseProcessor.
    *
    * @param {Array<object>} posts - An array of post objects.
@@ -34,14 +28,7 @@ export default class BaseProcessor {
   constructor(posts, post) {
     this.posts = posts
     this.post = post
-    this.getMetaData()
   }
-
-  /**
-   * Retrieves metadata for the current post.
-   * This method should be overridden by subclasses.
-   */
-  getMetaData() { }
 
   /**
    * Converts a string to a slug.
