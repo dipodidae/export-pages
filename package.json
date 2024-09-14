@@ -2,14 +2,15 @@
   "name": "export-pages",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Take the WordPress pages and export them to markdown files",
   "author": "",
+  "license": "MIT",
   "keywords": [],
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "clean": "rm -rf export/*",
     "export": "node index.js",
-    "clean": "rm -rf export/*"
+    "lint": "eslint ."
   },
   "dependencies": {
     "dotenv": "^16.4.5",
@@ -18,13 +19,12 @@
     "install": "^0.13.0",
     "js-yaml": "^4.1.0",
     "markdown-it": "^14.1.0",
-    "mysql2": "^3.11.0",
+    "mysql2": "^3.11.2",
     "php-serialize": "^5.0.1",
-    "turndown": "^7.2.0",
-    "typescript": "^5.5.4"
+    "turndown": "^7.2.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.27.1",
-    "eslint": "^9.9.0"
+    "@antfu/eslint-config": "^3.6.0",
+    "eslint": "^9.10.0"
   }
 }

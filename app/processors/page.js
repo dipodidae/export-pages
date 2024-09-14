@@ -3,6 +3,11 @@ import AnnotationProcessor from './annotation.js'
 import PostProcessor from './post.js'
 
 export default class extends PostProcessor {
+  /**
+   * Retrieves the order of posts starting from the current post up to the root parent.
+   *
+   * @returns {Array<object>} An array of posts in order from the current post to the root parent.
+   */
   getPostOrder() {
     const postsInOrder = [this.post]
 
@@ -31,12 +36,23 @@ export default class extends PostProcessor {
     return postsInOrder
   }
 
+  /**
+   * Constructs the path for the current post based on its order.
+   *
+   * @returns {string} The constructed path for the current post.
+   */
   getPath() {
     return this.getPostOrder()
       .map(pageInOrder => this.getSlug(pageInOrder.post_title))
       .join('/')
   }
 
+  /**
+   * Checks if the current post has a parent with a specific title.
+   *
+   * @param {string} [title] - The title to check against.
+   * @returns {boolean} True if a parent with the specified title exists, false otherwise.
+   */
   hasParentWithTitle(title = '') {
     if (!this.post.parent) {
       return false
@@ -47,15 +63,32 @@ export default class extends PostProcessor {
     return parent.post_title === title || this.hasParentWithTitle(parent, title)
   }
 
+  /**
+   * Constructs the filename for the current post based on its path.
+   *
+   * @returns {string} The constructed filename for the current post.
+   */
   getFileName() {
     return `${this.getPath()}.md`
   }
 
+  /**
+   * Unserializes and retrieves the categories from a serialized string.
+   *
+   * @param {string} serializedCategories - The serialized categories string.
+   * @returns {Array<string>} An array of category names.
+   */
   getCategories(serializedCategories) {
     const categories = phpSerialize.unserialize(serializedCategories)
     return Object.entries(categories).map(([_key, value]) => value)
   }
 
+  /**
+   * Parses and retrieves annotations from a JSON string.
+   *
+   * @param {string} [attachments] - The JSON string containing attachments.
+   * @returns {Array<object>} An array of annotation objects.
+   */
   getAnnotations(attachments = '') {
     if (!attachments) {
       return []
@@ -66,6 +99,11 @@ export default class extends PostProcessor {
     return parsedAttachments.annotations || []
   }
 
+  /**
+   * Saves annotations based on the provided metadata.
+   *
+   * @param {object} [metaData] - The metadata containing attachments.
+   */
   saveAnnotations(metaData = {}) {
     this.getAnnotations(metaData.attachments)
       .map(({ fields }) => {
@@ -81,26 +119,31 @@ export default class extends PostProcessor {
       .forEach(processor => processor.save())
   }
 
+  /**
+   * Transforms the provided metadata into a structured format.
+   *
+   * @param {object} metaData - The metadata to transform.
+   * @returns {object} The transformed metadata.
+   */
   transformMetaData(metaData) {
     const transformedMetaData = {}
 
     this.saveAnnotations(metaData)
 
-    if (metaData['ongehoord-intro']) {
+    if (metaData['ongehoord-intro'])
       transformedMetaData.intro = metaData['ongehoord-intro']
-    }
 
-    if (metaData['ongehoord-article-categories']) {
+    if (metaData['ongehoord-article-categories'])
       transformedMetaData.categories = this.getCategories(metaData['ongehoord-article-categories'])
-    }
 
-    if (metaData['ongehoord-video']) {
+    if (metaData['ongehoord-video'])
       transformedMetaData.video = metaData['ongehoord-video']
-    }
 
-    if (metaData['ongehoord-year']) {
+    if (metaData['ongehoord-year'])
       transformedMetaData.year = metaData['ongehoord-year']
-    }
+
+    if (this.post.thumbnail_url)
+      transformedMetaData.image = this.post.thumbnail
 
     return transformedMetaData
   }
