@@ -10,7 +10,6 @@ address:
 video: https://vimeo.com/643194715
 categories:
   - pigs
-  - chickens-egg
 welfareBrand: Beter Leven (1 ster)
 owner: Tijink
 organization: ''

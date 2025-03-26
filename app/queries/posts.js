@@ -1,4 +1,4 @@
-import connection from '../db.js'
+import createConnection from '../create-connection.js'
 import getMetadata from './meta-data.js'
 
 /**
@@ -8,7 +8,9 @@ import getMetadata from './meta-data.js'
  * @returns {Promise<Array<any>>} A promise that resolves to the query result rows.
  * @throws {Error} Throws an error if the query fails.
  */
-function query(postType) {
+async function query(postType) {
+  const connection = await createConnection()
+
   return connection.execute(`
     SELECT
       p.*,

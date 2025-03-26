@@ -2,6 +2,7 @@
   "name": "export-pages",
   "type": "module",
   "version": "1.0.0",
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0",
   "description": "Take the WordPress pages and export them to markdown files",
   "author": "",
   "license": "MIT",
@@ -21,12 +22,12 @@
     "markdown-it": "^14.1.0",
     "mysql2": "^3.11.2",
     "php-serialize": "^5.0.1",
-    "slug": "^9.1.0",
+    "slug": "^10.0.0",
     "turndown": "^7.2.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.6.0",
+    "@antfu/eslint-config": "^4.11.0",
     "eslint": "^9.10.0",
-    "eslint-plugin-format": "^0.1.2"
+    "eslint-plugin-format": "^1.0.1"
   }
 }

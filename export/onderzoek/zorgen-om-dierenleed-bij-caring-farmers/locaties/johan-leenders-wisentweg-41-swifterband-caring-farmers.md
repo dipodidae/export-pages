@@ -11,9 +11,9 @@ video: https://vimeo.com/644966241
 categories:
   - chickens-meat
 welfareBrand: Beter Leven (1 ster)
-owner: ''
+owner: Johan Leenders
 organization: ''
 stableSystem: ''
 companyName: ''
-title: Johan Leender | Wisentweg 41, Swifterband | Caring Farmers
+title: Johan Leenders | Wisentweg 41, Swifterband | Caring Farmers
 ---

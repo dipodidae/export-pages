@@ -3,7 +3,7 @@ position:
   lat: 51.759244
   lng: 5.276674
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Sint Annaweg 54
   country: 5321NN Hedel

@@ -3,7 +3,7 @@ position:
   lat: 52.20262967669881
   lng: 6.641385834755944
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Kerkstraat 1
   country: Hengevelde

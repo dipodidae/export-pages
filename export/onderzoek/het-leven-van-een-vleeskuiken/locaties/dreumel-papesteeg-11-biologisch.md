@@ -3,7 +3,7 @@ position:
   lat: 51.84759588263808
   lng: 5.476412862340968
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Papesteeg 11
   country: Dreumel

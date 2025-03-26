@@ -3,7 +3,7 @@ position:
   lat: 52.451149
   lng: 6.696315
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Balkenbeltsweg 37
   country: Langeveen

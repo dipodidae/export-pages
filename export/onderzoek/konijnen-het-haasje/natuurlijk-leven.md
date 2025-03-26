@@ -1,6 +1,6 @@
 ---
 title: Natuurlijk leven
-description: De dood van een kip - Natuurlijk leven
+description: Konijnen het haasje - Natuurlijk leven
 image:
   src: https://rest.ongehoord.info/wp-content/uploads/2024/01/natuurlijk-leven.jpg
   alt: Natuurlijk leven

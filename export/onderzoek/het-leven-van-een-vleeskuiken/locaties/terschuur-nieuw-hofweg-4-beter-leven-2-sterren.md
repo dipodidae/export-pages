@@ -3,7 +3,7 @@ position:
   lat: 52.15561979978106
   lng: 5.504994376558015
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Nieuw Hofweg 4
   country: Terschuur

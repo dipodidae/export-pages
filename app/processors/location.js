@@ -86,6 +86,7 @@ export default class LocationProcessor extends PostProcessor {
    * @returns {object} An object containing the parsed address components.
    */
   parseAddress(address) {
+    // Default result object with null values
     const result = {
       street: null,
       postalCode: null,
@@ -93,44 +94,113 @@ export default class LocationProcessor extends PostProcessor {
       country: null,
     }
 
+    // Return default if no address provided
     if (!address) {
       return result
     }
 
-    // Split the address by commas
-    const parts = address.split(',').map(part => part.trim())
+    // Normalize the address by trimming and removing extra spaces
+    const normalizedAddress = address.trim().replace(/\s+/g, ' ')
 
-    // Assume the last part is the country
+    // Postal code regex for various formats (e.g., 1234 AB, 12345)
+    const postalCodeRegex = /\b\d{4}\s?[A-Z]{2}\b|\b\d{5}\b/
+
+    // Try to split the address into parts
+    const parts = normalizedAddress.split(',').map(part => part.trim())
+
+    // Attempt to identify country (last part)
     if (parts.length > 0) {
-      result.country = parts.pop()
+      result.country = parts[parts.length - 1]
     }
 
-    // Assume the second last part is the city
-    if (parts.length > 0) {
-      const cityPart = parts.pop()
-      const postalCodeMatch = cityPart.match(/\b\d{4}\s?[A-Z]{2}\b/)
+    // If only one part, try to parse it comprehensively
+    if (parts.length === 1) {
+      const comprehensiveParse = this.parseComprehensiveAddress(normalizedAddress)
+      return { ...result, ...comprehensiveParse }
+    }
+
+    // Remove country from parts
+    parts.pop()
+
+    // Attempt to identify postal code and city
+    let cityFound = false
+    for (let i = parts.length - 1; i >= 0; i--) {
+      const postalCodeMatch = parts[i].match(postalCodeRegex)
 
       if (postalCodeMatch) {
         result.postalCode = postalCodeMatch[0]
-        result.city = cityPart.replace(postalCodeMatch[0], '').trim()
+
+        // If city hasn't been found yet
+        if (!cityFound) {
+          result.city = parts[i].replace(postalCodeMatch[0], '').trim()
+          cityFound = true
+        }
+
+        // Remove the postal code part
+        parts[i] = parts[i].replace(postalCodeMatch[0], '').trim()
       }
-      else {
+    }
+
+    // Set city if not already set
+    if (!result.city && parts.length > 0) {
+      result.city = parts[parts.length - 1]
+    }
+
+    // Remaining parts become the street
+    if (parts.length > 0) {
+      // Remove potential city from parts
+      if (result.city) {
+        const cityIndex = parts.lastIndexOf(result.city)
+        if (cityIndex !== -1) {
+          parts.splice(cityIndex, 1)
+        }
+      }
+
+      // Join remaining parts as street
+      result.street = parts.join(', ').trim()
+    }
+
+    return result
+  }
+
+  // Helper function for more comprehensive parsing when address is a single string
+  parseComprehensiveAddress(address) {
+    const result = {
+      street: null,
+      postalCode: null,
+      city: null,
+    }
+
+    // Postal code regex for various formats (e.g., 1234 AB, 12345)
+    const postalCodeRegex = /\b\d{4}\s?[A-Z]{2}\b|\b\d{5}\b/
+
+    // Try to find postal code first
+    const postalCodeMatch = address.match(postalCodeRegex)
+    if (postalCodeMatch) {
+      result.postalCode = postalCodeMatch[0]
+
+      // Split address around postal code
+      const parts = address.split(postalCodeMatch[0]).map(part => part.trim())
+
+      // One part before, one part after postal code
+      if (parts.length === 2) {
+        // Determine which part is street and which is city
+        const streetPart = parts[0]
+        const cityPart = parts[1]
+
+        result.street = streetPart
         result.city = cityPart
       }
     }
+    else {
+      // If no postal code, make a best guess
+      const parts = address.split(/\s+/)
 
-    // Assume the remaining part contains the street and postal code
-    if (parts.length > 0) {
-      const streetAndPostalCode = parts.join(', ')
-      const postalCodeMatch = streetAndPostalCode.match(/\b\d{4}\s?[A-Z]{2}\b/)
+      // Assume the last part might be the city
+      result.city = parts[parts.length - 1]
 
-      if (postalCodeMatch) {
-        result.postalCode = postalCodeMatch[0]
-        result.street = streetAndPostalCode.replace(postalCodeMatch[0], '').trim()
-      }
-      else {
-        result.street = streetAndPostalCode
-      }
+      // Street is everything before the city
+      result.street = parts.slice(0, -1).join(' ')
     }
 
     return result

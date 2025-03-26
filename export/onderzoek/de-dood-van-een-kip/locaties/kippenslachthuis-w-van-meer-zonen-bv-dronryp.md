@@ -9,10 +9,9 @@ address:
   country: Nederland
 video: https://vimeo.com/495820126
 categories:
-  - chickens
   - slaughterhouse
-welfareBrand: EKO
-owner: ''
+welfareBrand: Beter Leven, EKO
+owner: W. van Meer
 organization: ''
 stableSystem: ''
 companyName: Kippenslachthuis W. van Meer & Zonen B.V.

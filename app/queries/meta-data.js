@@ -1,4 +1,4 @@
-import connection from '../db.js'
+import createConnection from '../create-connection.js'
 
 /**
  * Queries the metadata for a given post ID from the wp_postmeta table.
@@ -8,6 +8,8 @@ import connection from '../db.js'
  * @throws {Error} Throws an error if the query fails.
  */
 async function query(postId) {
+  const connection = await createConnection()
+
   try {
     const [rows] = await connection.execute(`
       SELECT meta_key, meta_value

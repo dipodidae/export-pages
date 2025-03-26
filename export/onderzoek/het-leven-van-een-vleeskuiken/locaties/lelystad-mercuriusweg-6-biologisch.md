@@ -3,7 +3,7 @@ position:
   lat: 52.54685345594415
   lng: 5.513903138470429
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Mercuriusweg 6
   country: Lelystad

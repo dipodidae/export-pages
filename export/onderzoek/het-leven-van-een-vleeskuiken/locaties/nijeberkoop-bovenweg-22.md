@@ -3,7 +3,7 @@ position:
   lat: 52.957879073652585
   lng: 6.186609685563671
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Bovenweg 22
   country: Nijeberkoop

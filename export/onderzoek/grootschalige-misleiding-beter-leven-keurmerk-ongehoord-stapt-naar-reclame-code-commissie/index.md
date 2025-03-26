@@ -10,7 +10,6 @@ description: >-
   mega-stallen via een administratieve truc toch het keurmerk.
 categories:
   - pigs
-  - chickens
 video: https://vimeo.com/1003825423
 year: '2024'
 image:

@@ -3,9 +3,9 @@ position:
   lat: 52.877281
   lng: 4.822046
 address:
-  street: null
+  street: Kleiweg
   postalCode: null
-  city: null
+  city: 20a
   country: Kleiweg 20a
 video: https://vimeo.com/897959784
 categories:

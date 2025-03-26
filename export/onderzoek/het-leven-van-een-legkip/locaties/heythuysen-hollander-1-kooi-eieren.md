@@ -7,7 +7,7 @@ address:
   postalCode: 6093 PC
   city: Heythuysen
   country: Nederland
-video: https://youtu.be/eu7O_ArN3gg
+video: https://vimeo.com/1012139505
 categories:
   - chickens-egg
 welfareBrand: ''

@@ -3,7 +3,7 @@ position:
   lat: 51.58095556198475
   lng: 4.9555703281324615
 address:
-  street: null
+  street: ''
   postalCode: null
   city: Broekdijk 30a
   country: Hulten

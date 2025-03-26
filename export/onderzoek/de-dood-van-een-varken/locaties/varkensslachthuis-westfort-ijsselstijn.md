@@ -11,7 +11,7 @@ video: https://vimeo.com/495804722
 categories:
   - pigs
   - slaughterhouse
-welfareBrand: EKO
+welfareBrand: Beter Leven, EKO
 owner: Westfort
 organization: ''
 stableSystem: ''

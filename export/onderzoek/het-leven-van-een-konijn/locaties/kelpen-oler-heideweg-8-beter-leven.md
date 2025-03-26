@@ -10,9 +10,9 @@ address:
 video: https://youtu.be/IYLA1qLrmBM
 categories:
   - rabbit
-welfareBrand: ''
+welfareBrand: BL1
 owner: Kohlen
-organization: BL1
+organization: Beter Leven (1 ster)
 stableSystem: ''
 companyName: ''
 title: Kelpen-Oler  |  Heideweg 8 | Beter Leven
